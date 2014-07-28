@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/option"
+        android:icon="@drawable/ic_tab_statistics"
+        android:title="Options">
+
+        <menu android:id="@+id/sousmenu" >
+
+            <item
+                android:id="@+id/texteSize"
+                android:title="Taille du texte"/>
+
+            <item
+                android:id="@+id/notify"
+                android:title="Notifications"/>
+
+            <item
+                android:id="@+id/dataSaving"
+                android:title="Exporter les données"/>
+            
+            <item
+                android:id="@+id/dataImport"
+                android:title="Importer les données"/>
+            
+			<item
+                android:id="@+id/insertData"
+                android:title="inserer des données"/>
+            
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/quitter"
+        android:icon="@drawable/ic_tab_promesses"
+        android:title="Quitter"/>
+
+</menu>

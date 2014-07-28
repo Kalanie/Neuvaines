@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/bg">
+
+	<Button
+	    android:id="@+id/selectedDayMonthYear"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:background="@drawable/calendar_top_header"
+	    android:textAppearance="?android:attr/textAppearanceMedium"
+	    android:textColor="@color/brun" >
+
+	</Button>
+
+	<LinearLayout		
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<ImageView
+			android:id="@+id/prevMonth"
+			android:src="@drawable/calendar_left_arrow_selector"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+		</ImageView>
+		
+		<Button
+		    android:id="@+id/currentMonth"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="0.6"
+		    android:background="@drawable/calendar_bar"
+		    android:textAppearance="?android:attr/textAppearanceMedium"
+		    android:textColor="@color/brun" >
+
+		</Button>
+		
+		<ImageView
+			android:id="@+id/nextMonth"
+			android:src="@drawable/calendar_right_arrow_selector"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content">
+		</ImageView>
+	</LinearLayout>
+
+	<GridView
+	    android:id="@+id/calendar"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:horizontalSpacing="0dp"
+	    android:numColumns="7"
+	    android:stretchMode="columnWidth"
+	    android:verticalSpacing="0dp" >
+	</GridView>
+
+</LinearLayout>

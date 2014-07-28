@@ -1,0 +1,367 @@
+<resources>
+
+    <!--
+    Application gratuite et sans publicité.
+    J'ai fait de mon mieux pour la traduction.
+    S'il y a des erreurs envoyez moi un mail.
+    Que Dieu vous bénisse.
+    -->
+    <!-- <string name="validateDay">Valider Journée</string> -->
+    <string name="app_name">Neuvaines</string>
+    <string name="validateAndGoUp">Valider</string>
+    <string name="_choice">choix</string>
+    <string name="_years">année(s)</string>
+    <string name="_months">mois</string>
+    <string name="_day">jour</string>
+    <string name="_days">jour(s)</string>
+    <string name="smallCandel">1 jour</string>
+    <string name="MediumCandel">1 mois</string>
+    <string name="BigCandel">1 année</string>
+    <string name="startDate">Début</string>
+    <string name="DataExport">EXPORT DE DONNEES</string>
+    <string name="MailOnly">Mail seulement</string>
+    <string name="MailAndPDF">Mail + PDF</string>
+    <string name="MailAndTextFile">Mail + fichier texte</string>
+    <string name="DeviceMemoryAndPDF">Fichier PDF, mémoire</string>
+    <string name="DeviceMemoryAndTextFile">Fichier Texte, mémoire </string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Retour</string>
+    <string name="FileLocation">Localisation</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Pas de logiciel de Mail.</string>
+    <string name="FileWriteFailed">Ecriture du fichier échoué.</string>
+    <string name="ExternalFolderUnavailable">Dossier externe non disponible.</string>
+
+    <string-array name="novena">
+        <item>Novena1</item>
+        <item>Novena2</item>
+        <item>Novena3</item>
+        <item>Novena4</item>
+    </string-array>
+
+    <string name="Novena1_title">Neuvaine à saint Joseph pour trouver du travail.</string>
+    <string name="Novena1_1">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_2">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_3">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_4">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_5">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_6">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_7">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_8">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+    <string name="Novena1_9">\n\nSaint Joseph, père nourricier si fidèle de l\'enfant divin, époux virginal de la mère de Dieu, protecteur puissant de la Sainte Eglise, nous venons vers vous pour nous recommander à votre protection spéciale. Vous n\'avez rien cherché en ce monde sinon la gloire de Dieu et le bien du prochain. Tout donné au sauveur, c\'était votre joie de prier, de travailler, de vous sacrifier, de souffrir, de mourir pour lui. Vous étiez inconnu en ce monde et cependant connu de Jésus, ses regards reposaient avec complaisance sur votre vie simple et cachée en lui.Saint Joseph, vous avez déjà aidé tant d\'hommes, nous venons vers vous avec une grande confiance. Vous voyez dans la lumière de Dieu ce qui nous manque, vous connaissez nos soucis,nos difficultés, nos peines. Nous recommandons à votre sollicitude paternelle cette affaire particulière&#8230; (trouver du travail par exemple). Nous la mettons entre vos mains qui ont sauvé Jésus-enfant. Mais avant tout implorez pour nous la grâce de ne jamais nous nous séparer de Jésus par le péché mortel, de le connaître et de l\'aimer toujours plus, ainsi que sa sainte mère, de vivre toujours en présence de Dieu, de tout faire pour sa gloire et le bien des âmes, et d\'arriver un jour à la vision bienheureuse de Dieu pour le louer éternellement avec vous. Ainsi soit-il.</string>
+
+    <!-- http://notredamedesneiges.over-blog.com/article-10474665.html -->
+    <string name="Novena2_title">Neuvaine au Saint-Esprit</string>
+    <string name="Novena2_1"><p>Pour demander le don de Crainte de Dieu</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de votre Crainte, afin qu\'elle me serve de frein pour ne jamais retomber dans mes fautes passées, dont je demande mille fois pardon.</string>
+    <string name="Novena2_2"><p>Pour demander le don de Piété</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de Piété, afin que je puisse à l\'avenir vous servir avec plus de ferveur, suivre avec plus de promptitude vos saintes inspirations, et observer plus exactement vos divins préceptes.</string>
+    <string name="Novena2_3"><p>Pour demander le don de Science</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de Science, afin que je puisse bien connaître les choses de Dieu, et qu\'éclairé par vos saintes instructions, je marche, sans jamais dévier, dans la voie de mon salut éternel.</string>
+    <string name="Novena2_4"><p>Pour demander le don de Force</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de Force, afin que je puisse surmonter courageusement toutes les attaques du démon et tous les dangers du monde, qui s\'opposent au salut de mon âme.</string>
+    <string name="Novena2_5"><p>Pour demander Le don de Conseil</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de Conseil, afin que je puisse bien choisir tout ce qui est le plus convenable à mon avancement spirituel et découvrir tous les pièges et toutes les ruses de l\'esprit tentateur.</string>
+    <string name="Novena2_6"><p>Pour demander le don d\'Intelligence</p>\n\nEsprit-Saint, divin Consolateur ! Je vous adore comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don d\'Intelligence, afin que je puisse bien entendre les divins mystères, et, par la contemplation des choses célestes, détacher mes pensées et mes affections de toutes les vanités de ce misérable monde.</string>
+    <string name="Novena2_7"><p>Pour demander le don de Sagesse</p>\n\nEsprit-Saint, divin Consolateur ! Je vous aime comme mon vrai Dieu, ainsi que Dieu le Père et Dieu le Fils. Je vous offre mon cœur et vous rend de vives actions de grâces pour tous les bienfaits que vous avez répandus et que vous répandez sans cesse dans le monde. Vous qui êtes l\'Auteur de tous les dons surnaturels et qui avez comblé d\'immenses faveurs l\'âme de la bienheureuse Mère de Dieu et de toute consolation, Marie, je vous prie de me visiter par votre grâce et de m\'accorder le don de Sagesse, afin que je puisse bien diriger toutes mes actions, en les rapportant à Dieu comme à ma fin dernière, de sorte qu\'en l\'aimant et en le servant comme je le dois en cette vie, j\'ai le bonheur de la posséder éternellement en l\'autre. </string>
+    <string name="Novena2_8"><p>Humble supplication</p>\n\nEsprit-Saint, divin Paraclet, Père des pauvres, Consolateur des affligés, Lumière des cœurs, Sanctificateur des âmes, me voici prosterné en votre présence ; je vous adore avec la plus profonde soumission et je répète mille fois, avec les Séraphins qui se tiennent devant votre trône : « Saint ! Saint ! Saint ! ». Je crois fermement que vous êtes éternel, procédant du Père et du Fils. J\'espère que, par votre bonté, vous sanctifierez et sauverez mon âme. Je vous aime, ô Dieu d\'amour ! je vous aime plus que tout ; je vous aime de toutes mes affections, parce que vous êtes une bonté infinie qui mérite seule tout amour ; et puisque, insensible à vos saintes inspirations, j\'ai eu l\'ingratitude de vous offenser par tant de péchés, je vous en demande mille pardons et je regrette souverainement de vous avoir attristé, ô Amour infini.</string>
+    <string name="Novena2_9"><p>Offrande et invocations</p>\n\nJe vous offre mon cœur, tout froid qu\'il est, et je vous supplie d\'y faire entrer un rayon de votre lumière et une étincelle de votre feu, pour fondre la glace si dure de ces iniquités. Vous qui avez rempli d\'immenses grâces l\'âme de la Bienheureuse Vierge Marie, et enflammé d\'un saint Zèle les Cœurs des Apôtres, daignez aussi embraser mon cœur. - Vinum non habent. Que la Bienheureuse Vierge Marie qui a obtenu le vin de l\'Amour infini, nous obtienne le vin de l\'Amour infini, qui enivra d\'extases les Apôtres le saint jour de la Pentecôte. Que le Saint-Esprit, par Marie, suscite de nouveaux apôtres enivrés de l\'amour de Jésus-Christ. Vous êtes un Esprit divin, fortifiez-moi contre les mauvais esprits ; vous êtes un Feu, allumez en moi le feu de votre amour ; vous êtes une lumière, faites-moi connaître les choses éternelles ; vous êtes une Colombe, donnez-moi des mœurs pures ; vous êtes un Souffle plein de douceur, dissipez les orages que soulèvent en moi mes passions ; vous êtes une Langue, enseignez-moi la manière de vous louer sans cesse ; vous êtes une Nuée, couvrez-moi de l\'ombre de votre protection. Auteur de tous les dons célestes, ah ! Je vous en conjure, vivifiez-moi par votre grâce, sanctifiez-moi par votre charité, gouvernez-moi par votre sagesse, adoptez-moi pour votre enfant et sauvez-moi par votre infinie miséricorde, afin que je ne cesse jamais de vous bénir, de vous louer et de vous aimer, d\'abord sur la terre pendant ma vie, et ensuite dans le Ciel durant l\'éternité. - Ainsi soit-il !</string>
+    <string name="Novena3_title">Neuvaine au Sacré Cœur de Jésus </string>
+    <string name="Novena3_1">        Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_2">        Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_3">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_4">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_5">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_6">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_7">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_8">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+    <string name="Novena3_9">                Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
+        \n\n
+        1. O mon Jésus, qui avez dit: "En vérité je vous le dis, demandez et vous recevrez, cherchez et vous trouverez, frappez et l\'on vous ouvrira." Voici que je frappe, je cherche, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        2. O mon Jésus, qui avez dit: "En vérité je vous le dis, tout ce que vous demanderez à mon Père en mon nom, il vous l\'accordera." Voici qu\'à votre Père, en votre nom, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        3. O mon Jésus, qui avez dit: "En vérité je vous le dis, le ciel et la terre passeront, mais mes paroles ne passeront point." Voici que, m\'appuyant sur l\'infaillibilité de vos saintes paroles, je demande la grâce de &#8230; Notre Père, Je vous salue Marie, Gloire au Père. Sacré Cœur de Jésus, j\'ai confiance et j\'espère en vous.
+        \n\n
+        O Sacré Cœur de Jésus, à qui il est impossible de ne pas avoir compassion des malheureux, ayez pitié de nous, pauvres pécheurs, et accordez-nous la grâce que nous vous demandons par l\'intercession du Cœur Immaculé de Marie, votre et notre tendre Mère. Saint Joseph, père adoptif du Sacré Cœur de Jésus, priez pour nous. Salut ô Reine. Au nom du Père, et du Fils, et du Saint-Esprit. Amen.</string>
+        
+    
+    
+    
+    <string name="Novena4_title">Neuvaine à Notre-Dame de la Délivrance</string>
+    <string name="Novena4_1"><b>Jour d\'invocation</b>
+        \n\n 
+        O très douce, très bonne Vierge Marie, Mère de Dieu et ma Mère, me voici à vos pieds dans ce sanctuaire béni, où vous ne cessez de faire éclater votre puissance et votre bonté ! Je viens implorer votre miséricorde et votre secours ! Jamais vous n\'avez abandonné aucun de ceux qui ont eu recours à vous. Vous ne refuserez donc pas, ô Mère bien-aimée, de vous intéresser à moi dans les nécessités qui m\'accablent. Ne méprisez pas, ô ma Mère, mes humbles prières mais daignez les exaucer.
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_2"><b>Jour de demandes</b>
+        \n\n
+        O divine Marie, mon unique Souveraine, soyez ma véritable consolation ! Adoucissez mes peines, éclairez les ténèbres de mon âme, guidez-moi dans le chemin de la vie, soyez mon trésor dans ma pauvreté, ma force et mon refuge dans mes misères et mon espérance à l\'heure de ma mort. Prenez pitié de moi, ô ma Sainte et bonne Mère, accordez-moi ce que je vous demande, obtenez-moi les grâces dont j\'ai si grand besoin, particulièrement celles que je viens implorer auprès de vous. 
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+
+    <string name="Novena4_3"><b>Jour d\'intercession</b>
+        \n\n
+        O Cœur de Marie, Cœur si tendre et compatissant Cœur de Mère ! vous ne pouvez demeurer insensible à mes peines. Abaissez donc un regard sur moi, étendez vers moi votre main secourable, faites-moi entendre une parole de consolation et d\'espérance ! Cœur de Marie, trône de clémence, par vous nous avons accès auprès de votre divin Fils ! par vous nous pouvons obtenir toutes les grâces nécessaires à notre salut ! Aidez-nous dans nos angoisses, consolez-nous dans nos chagrins, fortifiez-nous dans nos tentations, faites-nous trouver dans la miséricorde divine un refuge assuré et éternel.
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_4"><b>Jour de confiance</b>
+        \n\n
+		Je sais, ô Reine des Cieux, que vous êtes pleine de bonté et que vous aimez d\'un amour que rien ne peut éteindre, ceux que votre divin Fils a aimés en vous et pour vous d\'un amour extrême. Je sais qu\'en vos mains sont les trésors de la miséricorde divine et que seule, parmi les élus, vous pouvez en disposer ! Je sais que votre main ne se donne pas de repos et que vous cherchez partout l\'occasion de sauver des malheureux, de répandre les dons de la miséricorde ! Votre gloire, loin de s\'obscurcir, prend chaque jour un nouvel éclat. J\'ai donc confiance que vous aurez pitié de moi, ô ma bonne Mère !
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_5"><b>Jour d\'offrande</b>
+        \n\n
+		O bienheureuse Vierge, en offrant vous-même mes vœux au Seigneur, rendez-les moins indignes de lui être présentés, afin que j\'obtienne par votre intercession ce que je demande avec une grande confiance ! Daignez, ô tendre Mère, accompagner mes prières et larmes, et redire à Dieu mes promesses, mes supplications, mes besoins ! Daignez offrir à Dieu tout mon cœur et m\'obtenir la grâce d\'aimer, de bénir, d\'accomplir toujours sa sainte volonté.
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_6"><b>Jour de supplication</b>
+        \n\n
+        Ô Marie, secours des chrétiens ! consolatrice des affligés ! votre âme a été grande en vertus comme en douleurs ! Prenez donc pitié de moi ! sans doute je n\'ai pas assez aimé Dieu, je l\'ai très souvent offensé et j\'ai mérité toutes sortes de châtiments. Cependant vos grandes douleurs m\'assurent le pardon et elles m\'obtiendront miséricorde ! Ô Marie, qui consolez tous ceux qui souffrent, tous ceux qui pleurent, tous ceux qui ont recours à vous ! veuillez donc me consoler et me bénir !
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_7"><b>Jour d\'amour</b>
+        \n\n
+        Ô Marie ma tendre Mère, je vous aime et je soupire après le bonheur de vous voir ! Souvenez-vous que je suis votre enfant, ô ma très douce, très bonne et très puissante Mère ! Faites-moi dans votre amour, participer à vos biens et à vos vertus ; à votre sainte humilité, à votre fervente charité, et accordez-moi les grâces que j\'implore… Ne dites pas que vous ne pouvez pas, votre divin Fils vous a donné toute puissance ! ne dites pas que vous ne devez pas, puisque vous êtes ma Mère ! Exaucez mes prières, mes gémissements et soyez exaltée, louée, remerciée à jamais.
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+    <string name="Novena4_8"><b>Jour de consécration</b>
+        \n\n
+        Ô Marie, Reine des Anges et des hommes, que puis-je faire de mieux que de me consacrer entièrement à vous et de vous abandonner et confier le soin de tous mes intérêts spirituels et temporels. Peuvent-ils être plus en sûreté qu\'entre vos mains, être mieux compris, mieux gardés, mieux servis que par vous ! Je vous consacre donc mon cœur, mes affections, mes pensées, mes désirs, mes forces et tout moi-même. Ô ma Souveraine et ma Mère, souvenez-vous que je vous appartiens, conseillez-moi, consolez-moi, gardez-moi comme votre bien et votre propriété, et conduisez-moi à Jésus, votre divin Fils !
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>    <string name="Novena4_9"><b>Jour d\'action de grâces</b>
+        \n\n
+        Ma Mère, je ne veux pas vous quitter avant d\'avoir reçu votre bénédiction. Je me jette encore une fois avec une toute filiale confiance dans vos bras maternels, qui ne s\'ouvrent que pour me presser sur votre Cœur miséricordieux ! Que les grâces qui se sont échappées de vos mains bénies pendant cette neuvaine, me gardent le souvenir de ces si courts instants passés auprès de vous. Merci, ô Mère bien-aimée, pour tous les bienfaits que j\'ai reçus de vous, pour les grâces de paix et d\'abandon que vous m\'avez obtenues. Merci !
+        \n\n
+        <b>Notre Père</b>
+        \n
+        qui es aux Cieux, que Ton Nom soit sanctifié, que Ton Règne vienne, que Ta Volonté soit faite sur la terre comme au ciel, donne-nous aujourd\'hui notre pain de ce jour, pardonne nous nos offenses comme nous pardonnons aussi à ceux qui nous ont offensés, et ne nous soumets pas à la tentation, mais délivre-nous du mal.
+        \n
+        Amen.
+        \n\n
+        <b>Je vous salue Marie</b>
+        \n
+        pleine de grâce le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pauvres pécheurs, maintenant et à l\'heure de notre mort.
+        \n
+        Amen.
+		\n\n
+        <p>Gloire au Père, au Fils et au Saint Esprit. Au Dieu est qui, qui était et qui vient maintenant et pour les siècles des siècles.</p>
+       	<p>
+        O Marie conçue sans péché, priez pour nous qui avons recours à vous.
+        \n
+        Cœur Immaculé de Marie, priez pour nous. 
+        \n
+        Notre-Dame de la Délivrance, priez pour nous.</p>
+        </string>
+</resources>

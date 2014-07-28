@@ -1,0 +1,182 @@
+<resources>
+    <!-- Hollandais
+    7 Pater noster
+    http://medjugorje-bn.efpk.net/?archief=629
+     -->
+    <!--<string name="validateDay">Dag valideren</string>-->
+    <string name="app_name">Zeven Onze Vader</string>
+    <string name="validateAndGoUp">Valideren</string>
+    <string name="_choice">Keuze</string>
+    <string name="_years">Jaar</string>
+    <string name="_months">Maand(en)</string>
+    <string name="_days">Dag(en)</string>
+    <string name="smallCandel">1 Dag</string>
+    <string name="MediumCandel">1 Maand</string>
+    <string name="BigCandel">1 Jaar</string>
+    <string name="startDate">Begin</string>
+            
+    <string name="DataExport">DATA EXPORT</string>
+    <string name="MailOnly">Mail alleen</string>
+    <string name="MailAndPDF">Mail + PDF</string>
+    <string name="MailAndTextFile">Mail + Tekstbestand</string>
+    <string name="DeviceMemoryAndPDF">PDF bestand (Systeemgeheugen)</string>
+    <string name="DeviceMemoryAndTextFile">tekstbestand (Systeemgeheugen) </string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Terugkeer</string>
+    <string name="FileLocation">Plaats</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Geen Software Mail.</string>
+    <string name="FileWriteFailed">Write-bestand is mislukt.</string>
+    <string name="ExternalFolderUnavailable">Externe map niet beschikbaar.</string>
+    
+    <string name="promises">
+      <b>Het twaalfjarige gebed aan de Heilige Brigitta van Zweden</b>
+      \n
+      De heilige Brigitta was, zoals zo vaak, weer eens in gesprek en bezinning verzonken toen de Heer tot haar sprak: "Weet dat Ik diegenen die twaalf jaren lang, dagelijks, zeven Onze Vaders en Weesgegroetjes bidden, ter ere van Mijn kostbaar Bloed, vijf genaden zullen bekomen: 
+      \n 
+      1. De ziel die bidt zal niet lijden in het Vagevuur.\n
+      2. De ziel die bidt zal worden opgenomen tussen de martelaren, alsof deze voor het geloof hun bloed hadden moeten vergieten.\n
+      3. Niemand in de volgende vier generaties van de ziel die deze bidt, zal verloren gaan.\n
+      4. De ziel die bidt kan drie zielen kiezen die Jezus in een staat van genade zal houden, voldoende om heilig te worden.\n
+      5. De ziel die bidt wordt een maand voor de dood hiervan op de hoogte gebracht.\n
+      Indien zij voor deze tijd sterven, beschouw Ik het als volbracht, dit wil zeggen, alsof ze deze voorwaarden vervuld hadden.\n
+      Paus Innocentius X bevestigde deze openbaring en voegde er aan toe dat de zielen die deze vervullen iedere Goede Vrijdag een ziel uit het vagevuur bevrijden.\n
+    </string>
+    
+    <string name="priere">
+        <h1><b><u>De zeven Onze Vaders.</u></b></h1>\n
+    	Bij het begin: Jezus, ik wil nu zevenmaal het Onze Vader bidden in vereniging met die liefde met dewelke Gij dit gebed in Uw Hart geheiligd en veraangenaamd hebt. Neem het van mijn lippen in Uw goddelijk Hart op, verbeter en vervolmaak het zodanig dat het de Allerheiligste Drievuldigheid zoveel eer en vreugde zou verschaffen als Gij Haar op aarde met dit gebed bewezen hebt, en dat deze eer mag overgaan op Uw heiligste mensheid ter verheerlijking van Uw heilige Wonden en Uw kostbaar bloed dat Gij daaruit vergoten hebt..
+    	\n\n
+    	
+    	<h1><b>1.<u>Besnijdenis</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus, offer ik U op: de eerste wonden, de eerste pijnen en het eerste bloedvergieten van Jezus, tot verzoening voor mijn jeugdzonden en die van alle mensen en voor de behoeding voor de eerste doodzonden, in het bijzonder in mijn verwantschap.
+
+		\n\n
+		<h1><b>2.<u>Bloedig zweet</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus, offer ik U op: het gruwelijke lijden van het Hart van Jezus bij de Olijfberg en iedere druppel van Zijn bloedig zweet, tot verzoening van mijn zonden van het hart en die van alle mensen, tot vermijding van zulke zonden en voor de vermeerdering van de Liefde tot God en de naaste.
+
+		\n\n
+		<h1><b>3.<u>Geseling</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus, offer ik U op: de vele duizenden wonden, de wrede pijnen en het kostbare bloed van Jezus door de geseling, tot verzoening van mijn zonden van het vlees en die van alle mensen, tot vermijding van zulke zonden en voor de bewaring van de onschuld, bijzonder in mijn verwantschap.
+
+		\n\n
+		<h1><b>4.<u>Doornkroning</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus, offer ik U op: de wonden, de pijnen en het kostbare Bloed van het heilige Hoofd van Jezus bij de doornkroning, tot verzoening van mijn zonden tegen de Geest en die van alle mensen, tot vermijding van zulke zonden en voor de uitbreiding van het koningschap van Christus op aarde.
+		
+		\n\n
+		<h1><b>5.<u>Kruisdraging</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus offer ik U op: het lijden van Jezus op Zijn kruisweg, in het bijzonder Zijn heilige schouderwonde en het kostbare bloed, tot verzoening van mijn zonden en die van alle mensen, voor de opstand tegen het kruis, het morren tegen Uw heilige Geboden en alle andere zonden van de tong, tot vermijding van zulke zonden en voor een ware liefde tot het kruis.
+
+		\n\n
+		<h1><b>6.<u>Kruisiging van Jezus</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, door de onbevlekte handen van Maria en het goddelijke Hart van Jezus, offer ik U op: Uw goddelijke Zoon aan het kruis, Zijn nagelen aan het kruis en Zijn opheffing, Zijn wonden aan de handen en de voeten en de drie stromen heilig bloed die daaruit voor ons vergoten werden, alsmede Zijn uiterste armoede, Zijn volkomen gehoorzaamheid, al Zijn kwellingen naar lichaam en ziel, Zijn kostbare dood en de onbloedige vernieuwing ervan in alle heilige Missen van de wereld, tot verzoening voor het breken van de kloostergeloften en de kloosterregels, voor het eerherstel van mijn zonden en die van de ganse wereld, voor zieken en stervenden, voor heilige priesters en leken, voor de intenties van de heilige Vader, tot herstel van het Christelijk gezin, voor sterkte in het geloof voor ons vaderland en voor de eenheid van alle volkeren in Christus en Zijn Kerk, alsook voor de vervolgden in de diaspora.
+
+		\n\n
+		<h1><b>7.<u>Opening van de heilige Zijde</u></b></h1>
+    	\n\n
+        <b>Onze Vader</b>
+        \n
+        die in de hemel zijt, uw Naam worde geheiligd, uw Rijk kome, uw wil geschiede op aarde zoals in de hemel, geef ons heden ons dagelijks brood, en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring, maar verlos ons van het kwade.
+        \n
+        Amen.
+        \n\n
+        <b>Wees gegroet Maria</b>
+        \n
+        vol van genade. De Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de vrucht van Uw lichaam, Jezus. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood.
+        \n
+        Amen.
+		\n\n
+		Eeuwige Vader, waardig U, voor de noden van de heilige Kerk en voor de zonden van alle mensen, het kostbare bloed en water aan te nemen dat uit de wonde van het goddelijke Hart van Jezus gevloeid is: wees ons allen genadig en barmhartig. Bloed van Christus, laatste kostbare inhoud van Zijn heilig Hart: was mij rein van alle schuld van zonden! Water uit de zijde van Christus: was mij rein van alle straf van zonden en blus voor mij en voor alle arme zielen de vlammen van het Vagevuur uit. Amen.
+
+		\n\n
+		<b><u>Wees gegroet</u></b>
+		\n
+		Wees gegroet, koningin, moeder van barmhartigheid; ons leven, onze vreugde en onze hoop, wees gegroet. Tot u roepen wij, ballingen, kinderen van Eva; tot u smeken wij, zuchtend en wenend in dit dal van tranen. Daarom dan, onze voorspreekster, sla op ons uw barmhartige ogen; en toon ons, na deze ballingschap, Jezus de gezegende vrucht van uw schoot. O goedertieren, o liefdevolle, o zoete maagd Maria!
+		\n
+		- Bid voor ons heilige moeder van God.
+		\n
+		- Opdat wij de beloften van Christus waardig worden.
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>

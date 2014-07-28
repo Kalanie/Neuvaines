@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">Sette Padre Nostro</string>
+    <string name="validateAndGoUp">Convalidare</string>
+    <string name="_choice">scelta</string>
+    <string name="_years">anno(i)</string>
+    <string name="_months">mese(i)</string>
+    <string name="_days">giorno(i)</string>
+    <string name="smallCandel">1 giorno</string>
+    <string name="MediumCandel">1 mese</string>
+    <string name="BigCandel">1 anno</string>
+    <string name="startDate">Inizio</string>
+            
+    <string name="DataExport">EXPORT DATI</string>
+    <string name="MailOnly">mail solo</string>
+    <string name="MailAndPDF">Mail e PDF</string>
+    <string name="MailAndTextFile">Mail e File di testo</string>
+    <string name="DeviceMemoryAndPDF">PDF File (memoria del dispositivo)</string>
+    <string name="DeviceMemoryAndTextFile">File di testo (memoria del dispositivo) </string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Ritorno</string>
+    <string name="FileLocation">Posizione</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Nessun software di posta.</string>
+    <string name="FileWriteFailed">Scrittura di file non riuscita.</string>
+    <string name="ExternalFolderUnavailable">Cartella esterna disponibile.</string>
+    
+    <string name="promises">
+      <b>Promesse di Gesù per coloro che reciteranno questa preghiera per 12 anni</b>
+      \n
+      Dopo che il Signore aveva rivelato a santa Brigida di aver ricevuto 5480 colpi, rivelò, in un\'altra apparizione di aver versato più di trentamila gocce di sangue; le insegnò quindi altre 7 orazioni da recitare per 12 anni, senza interruzioni, con 7 Padre Nostro e 7 Ave Maria. In tal modo, saranno onorate le oltre 30000 gocce di sangue che il Signore Nostro Gesù Cristo ha sparso per la nostra redenzione. Attraverso Santa Brigida, Gesù ha fatto meravigliose promesse alle anime che reciteranno queste Orazioni per 12 anni. In particolare, Gesù promette: 
+      \n 
+      1. l\'anima che le recita non andrà in Purgatorio.\n
+      2. l\'anima che le recita sarà accettata tra i martiri come se avesse versato il suo sangue per la fede.\n
+      3. l\'anima che le recita può scegliere altre tre persone che Gesù manterrà in uno stato di grazia sufficiente per diventare sante.\n
+      4. nessuno delle quattro generazioni successive all\'anima che le recita si dannerà.\n
+      5. l\'anima che le recita sarà resa edotta della propria morte un mese prima.\n
+	  Qualcuno può pensare che gli potrebbe capitare di concludere la sua vita terrena prima del termine dei 12 anni di preghiere. In questo caso Gesù ha assicurato, sempre attraverso Santa Brigida, che le riterrebbe valide come se le avesse completate. Se invece si dovesse saltare uno o più giorni per qualche motivo, è possibile recuperare le preghiere mancanti in seguito. E\' palese che coloro che si assumono questo impegno non devono pensare che queste preghiere siano il lasciapassare automatico per il Paradiso e di poter quindi continuare a vivere secondo i propri desideri. Sappiamo che dobbiamo vivere con Dio in tutta coerenza e sincerità non solo quando si recitano queste preghiere, ma durante tutta la vita. Certo che se una persona riceve la Grazia di perseverare per 12 anni in questo tipo di orazione, sicuramente vive già in un buon grado di comunione con Gesù e Maria e sa come comportarsi.
+    </string>
+    <string name="priere">
+        <h1><b><u>Preghiera iniziale.</u></b></h1>\n
+    	O Gesù, desidero rivolgere al Padre questa tua orazione unendomi all\'Amore con cui la santificasti nel tuo Cuore. Portala dalle mie labbra nel tuo Cuore. Migliorala e completala in modo perfetto così che possa portare alla Santissima Trinità tutto l\'onore e la gioia che Tu Le tributasti quando elevasti questa orazione sulla terra; possano l\'onore e la gioia scorrere sulla tua Sacra Umanità in glorificazione delle tue dolorosissime Piaghe e del Preziosissimo Sangue che da esse sgorgò.
+    	\n\n
+        	
+    	<h1><b>1.<u>La circoncisione di Gesù</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro le prime ferite, i primi dolori e il primo sangue che Egli ha versato in espiazione dei nostri peccati e di quelli di tutti i giovani, quale protezione contro il primo peccato mortale, in particolare dei miei consanguinei.
+
+		\n\n
+		<h1><b>2.<u>Le sofferenze di Gesù sul monte degli ulivi</u></b></h1>
+		\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro le terribili sofferenze del Cuore Divino di Gesù sul Monte degli Ulivi e Ti offro ogni goccia del suo sudore di Sangue in espiazione di tutti i miei peccati del cuore e di tutti quelli dell\'umanità, quale protezione contro tali peccati e per la diffusione dell\' Amore divino e fraterno.
+
+		\n\n
+		<h1><b>3.<u>La Flagellazione di Gesù</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro gli innumerevoli colpi, i dolori atroci e il Prezioso Sangue della Flagellazione in espiazione di tutti i miei peccati della carne e di tutti quelli dell\'umanità, quale protezione contro di essi e per la salvaguardia dell\'innocenza, in particolare tra i miei consanguinei.
+
+		\n\n
+		<h1><b>4.<u>La coronazione di spine di Gesù</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro le ferite, i dolori e il Preziosissimo Sangue sceso dal Capo di Gesù quando fu coronato di spine, in espiazione dei miei peccati dello spirito e di quelli di tutta l\'umanità, quale protezione contro di essi e per la costruzione del Regno di Dio su questa terra.
+		
+		\n\n
+		<h1><b>5.<u>La salita di Gesù sotto il peso della croce</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro le sofferenze patite da Gesù lungo la salita al monte Calvario e, in particolare, la Santa Piaga della Spalla e il Prezioso Sangue che da essa uscì, in espiazione dei miei ed altrui peccati di ribellione alla croce, di rifiuto dei tuoi santi disegni e di ogni altro peccato della lingua, quale protezione contro di essi e per un amore autentico alla Santa Croce
+
+		\n\n
+		<h1><b>6.<u>La crocifissione di Gesù</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, per le mani purissime di Maria e per il Cuore Divino di Gesù, Ti offro tuo Figlio inchiodato sulla Croce e innalzato su di essa, le sue ferite alle mani e ai piedi e il Prezioso Sangue che da essa uscì per noi, i suoi terribili tormenti del Corpo e dello Spirito, la sua preziosa Morte e l\'incruento suo rinnovarsi in tutte le Sante Messe celebrate sulla Terra. Ti offro tutto questo in espiazione di tutte le mancanze fatte ai voti e alle regole negli Ordini religiosi, in riparazione di tutti i miei e altrui peccati, per i malati e i moribondi, per i sacerdoti e per i laici, per le intenzioni del Santo Padre riguardanti la ricostruzione della famiglia cristiana, il rafforzamento della Fede, il nostro Paese, l\'unità in Cristo fra le nazioni e all\'interno della sua Chiesa, e per la Diaspora.
+
+		\n\n
+		<h1><b>7.<u>La ferita del costato di Gesù</u></b></h1>
+    	\n\n
+        <b>Padre nostro</b>
+        \n
+        che sei nei cieli, sia santificato il Tuo nome, venga il Tuo regno, sia fatta la Tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori, e non c\'indurre in tentazione, ma liberaci dal male.
+        \n
+        Amen.
+        \n\n
+        <b>Ave, o Maria,</b>
+        \n
+        piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. 
+        \n
+        Amen.
+		\n\n
+		Eterno Padre, accetta, per le necessità della Santa Chiesa e in espiazione dei peccati di tutta l\'umanità, l\'Acqua e il Sangue Preziosissimi usciti dalla ferita inflitta al Cuore Divino di Gesù e gli infiniti meriti che essi effondono. Ti supplichiamo, sii buono e misericordioso verso di noi! Sangue di Cristo, ultimo prezioso contenuto del Sacro Cuore di Gesù, purificami e purifica tutti i fratelli da ogni colpa! Acqua di Cristo, liberami da ogni pena meritata per i miei peccati e spegni le fiamme del Purgatorio per me e per tutte le anime purganti.
+
+		\n\n
+		<b><u>Salve Regina</u></b>
+		\n
+		Salve, Regina, madre di misericordia, vita, dolcezza e speranza nostra, salve. A te ricorriamo, esuli figli di Eva; a te sospiriamo, gementi e piangenti in questa valle di lacrime. Orsù dunque, avvocata nostra, rivolgi a noi gli occhi tuoi misericordiosi. E mostraci, dopo questo esilio, Gesù, il frutto benedetto del tuo Seno. O clemente, o pia, o dolce Vergine Maria!
+		\n
+		- Pregate per noi, santa Madre di Dio.
+		\n
+		- Affinché diventiamo  degni  delle promesse del Nostro Signore Gesù Cristo.
+		\n
+		Amen.
+		\n\n
+        
+	</string>
+    
+
+</resources>

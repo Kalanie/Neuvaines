@@ -1,0 +1,207 @@
+<resources>
+    <!--
+    SUEDOIS
+    google => https://www.google.se/
+    site officiel de Sainte Brigitte de Suède. => http://birgitta.vadstena.se/
+    Notre père => Fader vår => http://sv.wikisource.org/wiki/Fader_v%C3%A5r
+    Je vous salue marie => Var hälsad Maria => http://www.oikonomia.info/?page_id=22831
+    7 Notre père => http://www.oikonomia.info/?page_id=22831
+    
+    Salve regina => http://katolsktliv.blogspot.fr/2011/09/salve-regina.html
+    			 => http://sv.wikipedia.org/wiki/Salve_Regina 
+    
+    Sainte = Heliga
+    Suède = Sverige
+    prière = bön
+    oraisons => böner
+	révélations = avslöjanden
+	Brigitte de suède =
+	Brigitte = birgittas
+	Suède = Mocka
+	7 Notre Père => Sju fader vår
+		 
+    Application gratuite et sans publicité.
+    Gratis program utan reklam.
+    J'ai fait de mon mieux pour la traduction.
+    Jag gjorde mitt bästa för att översätta.
+    S'il y a des erreurs envoyez moi un mail.
+    Om det finns fel så skicka mig ett mail.
+    Que Dieu vous bénisse.
+    Gud välsigne dig.
+     -->
+    <!-- <string name="validateDay">Validate dag</string>  -->
+    <string name="app_name">Sju Our Fathers</string>
+    <string name="validateAndGoUp">Validera</string>
+    <string name="_choice">val</string>
+    <string name="_years">år</string>
+    <string name="_months">månad(er)</string>
+    <string name="_days">dag(ar)</string>
+    <string name="smallCandel">1 dag</string>
+    <string name="MediumCandel">1 månad</string>
+    <string name="BigCandel">1 år</string>
+    <string name="startDate">Beginning</string>
+            
+    <string name="DataExport">EXPORTERA DATA</string>
+    <string name="MailOnly">Maila bara</string>
+    <string name="MailAndPDF">Post-och PDF</string>
+    <string name="MailAndTextFile">Post-och textfiler</string>
+    <string name="DeviceMemoryAndPDF">PDF-fil (Enhetsminne)</string>
+    <string name="DeviceMemoryAndTextFile">Textfil (Enhetsminne)</string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Avkastning</string>
+    <string name="FileLocation">Plats</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Ingen programvara Mail.</string>
+    <string name="FileWriteFailed">File skrivning misslyckades.</string>
+    <string name="ExternalFolderUnavailable">Extern mapp otillgänglig.</string>
+    
+    <string name="promises">
+      <b>Den Heliga Birgittas \'Sju Fader Vår\'</b>
+      \n
+      Enligt en from tradition uppenbarade sig Herren för den Heliga Birgitta (1303-73, 23 juli, 7 okt.) och gav henne följande löften:
+      Var och en som under tolv år i följd varje dag ber sju Fader vår och Var hälsad Maria för att ära mitt Dyrbara Blod, ska få ta emot fem nådegåvor: 
+      \n 
+      1. De kommer inte till Skärselden.\n
+      2. Jag ska ta dem upp i skaran av martyrer, som om de hade utgjutit sitt blod för sin tro.\n
+      3. Jag ska bevara tre själar efter deras val i den heliggörande nåden.\n
+      4. Deras släktingars själar ned till fjärde generationen ska undgå Helvetet.\n
+      5. De ska få veta att döden närmar sig en månad innan, så att de har tid att förbereda sig.\n
+      Skulle de dö innan de har hunnit be dessa böner under tolv år så betraktar jag ändå intentionen att be dessa böner i tolv år som fullbordad.\n
+      Innocentius X1 (1644-55) bekräftade denna uppenbarelse och tillade att de själar som uppfyller dessa villkor varje Långfredag befriar en själ ur Skärselden. De sju Fader vårgodkändes och rekommenderades också av Clemens XII (1730-40).\n
+      På samma sätt som för De Femton Bönerna till Den Lidande Kristus gäller det att be dessa böner dagligen.
+      Om man av någon giltig anledning inte kan be dem under en dag ber man dem två gånger följande dag.\n
+    </string>
+    
+    <string name="priere">
+        <h1><b><u>Bön.</u></b></h1>\n
+    	Jesus, jag vill nu be sju Fader vår i förening med den kärlek med vilken Du i Ditt Hjärta har helgat och upphöjt denna bön. Ta emot den från mina läppar i Ditt Gudomliga Hjärta. Förbättra och fullkomna den, så att den skänker den Allraheligaste Treenigheten lika mycket ära och glädje som Du visade denna bön på jorden. Låt mina ”Fader vår” få kraft av Ditt Människoblivande till förhärligande av Dina Heliga Sår och det Dyrbara Blod som utgjutits från dessa Sår.
+    	\n\n
+    	
+    	<h1><b>1.<u>Det första fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära det Blod som vår Herre utgöt vid omskärelsen: Helige Fader, genom Jungfru Marias Obefläckade händer och genom Jesu Gudomliga Hjärta offrar jag till Dig Jesu första Sår, de första smärtorna och den första blodsutgjutelsen till försoning för mina och alla människors ungdomssynder och som skydd mot dödssynden, särskilt i min familj och släkt.
+
+		\n\n
+		<h1><b>2.<u>Det andra fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära Jesu lidande genom det Blod Han svettades i Getsemane: Evige Fader, genom Jungfru Marias Obefläckade händer och Jesu Gudomliga Hjärta offrar jag till Dig Jesu Hjärtas fruktansvärda lidanden i Getsemane örtagård och varje droppe av Hans blodssvett till försoning för mina och alla människors synder i sina hjärtan, som skydd mot hjärtats synder och för att kärleken till Gud och vår nästa ska växa i oss.
+
+		\n\n
+		<h1><b>3.<u>Det tredje fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära Jesu Blod, som Han utgöt vid gisslingen: Evige Fader, genom Jungfru Marias Obefläckade händer och Jesu Gudomliga Hjärta offrar jag till Dig de många tusen sår, de grymma smärtorna och Jesu Dyrbara Blod, som Han fick lida genom tortyren till försoning för mina och alla människors synder mot kyskheten och som skydd för renheten, särskilt i min familj och släkt.
+
+		\n\n
+		<h1><b>4.<u>Det fjärde fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära Jesu lidande vid kröningen med törnen: Evige Fader, genom Jungfru Marias Obefläckade händer och Jesu Gudomliga Hjärta offrar jag till Dig Hans Sår, smärtor och Dyrbara Blod från Hans Heliga Huvud vid törnekröningen till försoning för mina och alla människors syndiga intentioner som skydd för dessa synder och för utbredandet av Kristi Rike på jorden.
+		
+		\n\n
+		<h1><b>5.<u>Det femte fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära Jesu lidande då Han bar Korset: Evige Fader, genom Jungfru Marias Obefläckade händer och Jesu Gudomliga Hjärta offrar jag till Dig Jesu lidande på korsvägen, särskilt Hans Heliga Sår på skuldran och Hans Dyrbara Blod till försoning för mig och alla människor som avvisar Korset och är emot Din Heliga Vilja och allt missbruk av talförmågan. Som skydd mot dessa synder och för att vi må få en sann kärlek till Korset.
+
+		\n\n
+		<h1><b>6.<u>Det sjätte fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära Jesu lidande då Han korsfästes: Evige Fader, genom Jungfru Marias Obefläckade händer och Jesu Gudomliga Hjärta offrar jag till Dig Din Gudomlige Son på Korset, Jesu fastnaglande och upphöjning på Korset, Jesu Sår på händer och fötter och de tre strömmar av Jesu Heliga Blod, som utgjutits för oss, Jesu yttersta fattigdom, Jesu totala lydnad, alla lidanden till kropp och själ, Jesu Dyrbara död och dess förnyelse i alla Heliga Mässor på jorden: till försoning för alla kränkningar av de Heliga Ordenslöftena, till bot för mina och världens synder, för de sjuka och döende, för fromma präster och lekmän, för den Helige Faderns intentioner för att återställa den kristna familjen, för styrka i tron, för vårt land och folkets enhet i Kristus och Hans Kyrka.
+
+		\n\n
+		<h1><b>7.<u>Det sjunde fader vår</u></b></h1>
+    	\n\n
+        <b>Fader vår,</b>
+        \n
+        som är i Himmelen. Helgat varde Ditt Namn. Tillkomme Ditt Rike, ske Din vilja, såsom i Himmelen, så ock på jorden. Vårt dagliga bröd giv oss idag, och förlåt oss våra skulder såsom ock vi förlåta dem oss skyldiga äro, och inled oss icke i frestelse, utan fräls oss ifrån ondo.
+        \n
+        Amen.
+        \n\n
+        <b>Var hälsad Maria</b>
+        \n
+        full av nåd; Herren är med dig; välsignad är du ibland kvinnor, och välsignad är din Livsfrukt, Jesus. Heliga Maria, Guds Moder, bed för oss syndare, nu och i vår dödsstund.
+        \n
+        Amen.
+		\n\n
+		För att ära öppnandet av Kristi heliga sida. Evige Fader, vi ber Dig för den Heliga Moder Kyrkans behov och att som försoning för alla människors synder ta emot det Dyrbara Blod och Vatten som strömmade ur Såret vid Jesu Gudomliga Hjärta. Var oss nådig och barmhärtig. Kristi Blod, det sista dyrbara innehållet av Ditt Heliga Hjärta, rena mig från all synd och allt orent, som skiljer mig från Dig. Vattnet från Jesu sida, befria mig från det straff som jag har förtjänat för mina synders skull och släck Skärsel.
+
+		\n\n
+		<b><u>Var hälsad,</u></b>
+		\n
+		o Drottning, barmhärtighetens Moder, vårt liv, vår fröjd och vårt hopp, var hälsad! Till Dig ropar vi, Evas landsflyktiga barn; till Dig suckar vi sörjande och gråtande i denna tårarnas dal. Vänd därför, Du vår Förespråkerska, vänd dina ömma blickar till oss; och efter denna landsflykt, visa oss Jesus, din välsignade livsfrukt! O milda, o hulda, o ljuva Jungfru Maria. 
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>

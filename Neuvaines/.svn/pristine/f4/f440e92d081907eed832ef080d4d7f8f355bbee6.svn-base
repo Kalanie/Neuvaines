@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Novena</string>
+    <string name="prevday">&lt;</string>
+    <string name="nextday">&gt;</string>
+    <string name="_choice">choice</string>
+    <string name="_years">year(s)</string>
+    <string name="_months">month(s)</string>
+    <string name="_day">day</string>
+    <string name="_days">day(s)</string>
+    <string name="smallCandel">1 day</string>
+    <string name="MediumCandel">1 month</string>
+    <string name="BigCandel">1 year</string>
+    <string name="startDate">Beginning</string>
+    <string name="DataExport">DATA EXPORT</string>
+    <string name="MailOnly">Mail only</string>
+    <string name="MailAndPDF">Mail + PDF</string>
+    <string name="MailAndTextFile">Mail + Text File</string>
+    <string name="DeviceMemoryAndPDF">PDF File (Device Memory)</string>
+    <string name="DeviceMemoryAndTextFile">Text File (Device Memory) </string>
+    <string name="EXPORT">EXPORT</string>
+    <string name="Return">Return</string>
+    <string name="FileLocation">Location</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">No Software Mail.</string>
+    <string name="FileWriteFailed">File write failed.</string>
+    <string name="ExternalFolderUnavailable">External folder unavailable.</string>
+
+    <string name="priere">priere</string>
+
+</resources>

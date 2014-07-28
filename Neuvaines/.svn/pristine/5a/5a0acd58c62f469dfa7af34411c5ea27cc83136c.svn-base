@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="beigeClair">#FCEFCE</color>	
+    <color name="beige">#FAE5B2</color>
+    <color name="beigeFonce">#F8DA90</color>
+    <color name="beigeTresFonce">#F6D172</color>
+    <color name="beigeTresFonce2">#EEB764</color>
+    <color name="beigeTresFonce3">#E99F4B</color>
+    <color name="orangeBordsCarreNomsJoursSemaine">#F9A623</color>
+    <color name="orangeCentreCarreNomsJoursSemaine">#F6C785</color>
+    <color name="grisFonce">#CBCBCB</color>
+    <color name="grisTresFonce">#BEBEBE</color>
+    <color name="brun">#683F17</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="symptom_color_selected">#003366</color>
+    <color name="reaction_color_selected">#003366</color>
+    <color name="static_text_color">#003366</color>
+    <color name="journal_entry_listitem_text_color">#003366</color>
+    <color name="note_text_disabled">#333333</color>
+
+</resources>

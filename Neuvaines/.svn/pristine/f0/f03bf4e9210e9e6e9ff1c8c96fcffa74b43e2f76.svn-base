@@ -1,0 +1,173 @@
+<resources>
+
+    <!--<string name="validateDay">Validar Día</string>-->
+    <string name="app_name">Siete Nuestro Padre</string>
+    <string name="validateAndGoUp">Validar</string>
+    <string name="_choice">opción</string>
+    <string name="_years">año(s)</string>
+    <string name="_months">mes(es)</string> 
+    <string name="_days">día(s)</string>
+    <string name="smallCandel">1 día</string>
+    <string name="MediumCandel">1 mes</string>
+    <string name="BigCandel">1 año</string>
+    <string name="startDate">Comienzo</string>
+            
+    <string name="DataExport">EXPORTACIÓN DE DATOS</string>
+    <string name="MailOnly">Sólo Correo</string>
+    <string name="MailAndPDF">Correo + PDF</string>
+    <string name="MailAndTextFile">Correo + Archivo de texto</string>
+    <string name="DeviceMemoryAndPDF">Archivo PDF (Memoria del dispositivo)</string>
+    <string name="DeviceMemoryAndTextFile">Archivo de texto (Memoria del dispositivo)</string>
+    <string name="EXPORT">Exportación</string>
+    <string name="Return">Retorno</string>
+    <string name="FileLocation">Ubicación</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">No Software Correo.</string>
+    <string name="FileWriteFailed">Escritura del archivo falló.</string>
+    <string name="ExternalFolderUnavailable">Carpeta externa no está disponible.</string>
+    
+    <string name="promises"><b>Las Promesas Magníficas de los Rezos de 12 Años</b>\n
+        1. El alma que las reza no sufrirá ningún Purgatorio.\n
+		2. El alma que las reza será aceptada entre los mártires como si hubiera derramado su propia sangre por la fe.\n
+		3. El alma que las reza puede elegir a otros tres a quienes Jesús mantendrá luego en un estado de Gracia suficiente para que se santifiquen.\n
+		4. Ninguno de las cuatro generaciones siguientes al alma que las reza se perderá en el fuego del infierno.\n
+		5. El alma que las reza será consciente de su muerte un mes antes de que ocurra.\n
+
+		En caso de que la persona que las reza muera antes de cumplirse los doce años, el Señor aceptará estas oraciones como si se hubieran rezado en su totalidad. Si se salteara un día o un par de días con justa causa, podrán se compensados luego.\n
+ 
+        Esta devoción ha sido declarada buena y recomendada tanto por el por el Sacro Collegio de Propaganda Fidei, como por el Papa Clemente XII.- El Papa Inocencio X confirmó esta revelación como “venida del Señor”.\n</string>
+        
+    <string name="priere"><h1><b>Oración.</b></h1>
+        \n
+    	Oh Jesús, ahora deseo rezar la oración del Señor siete veces junto con el amor con que Tú santificaste esta oración en Tu Corazón. Tómala de mis labios hasta Tu Sagrado Corazón. Mejórala y complétala para que le brinde tanto honor y felicidad a la Trinidad en la tierra como Tú lo garantizaste con esta oración. Que esta se derrame sobre Tu santa humanidad para la glorificación de Tus dolorosas heridas y la preciosísima Sangre que Tú derramaste de ellas.
+    	\n\n
+    	
+    	<h1><b>1.<u>La circunsición</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n	
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco las primeras heridas, los primeros dolores y el primer derrame de Sangre como expiación de los pecados de mi infancia y de toda la humanidad, como protección contra el primer pecado mortal, especialmente entre mis parientes.
+		\n\n
+		
+		<h1><b>2.<u>La agonía de Jesús en el huerto de los olivos</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco el intenso sufrimiento del Corazón de Jesús en el Huerto de los Olivos y cada gota de sudor de Sangre como expiación de mis pecados del corazón y los de toda la humanidad, como protección contra tales pecados y para que se extienda el Amor Divino y Fraterno.
+		\n\n
+		<h1><b><u>3.La flagelación</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco las heridas, los dolores y la preciosísima Sangre de la flagelación como expiación de mis pecados de la carne y los de toda la humanidad, como protección contra tales pecados y la preservación de la inocencia, especialmente entre mis parientes.
+
+		\n\n
+		<h1><b>4.<u>La coronación de espinas</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco las heridas, los dolores y la preciosísima Sangre de la sagrada Cabeza de Jesús luego de la coronación de espinas, como expiación de mis pecados del espíritu y los de toda la humanidad, como protección contra tales pecados y para que se extienda el Reino de Cristo aquí en la tierra.
+		
+		\n\n
+		<h1><b>5.<u>Cargando la cruz</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco los sufrimientos en el camino a la Cruz, especialmente la santa herida en Su Hombro y la preciosísima Sangre como expiación de mi negación de la Cruz y la de toda la humanidad, todas mis protestas contra Tus Planes Divinos y todos los demás pecados de palabra, como protección contra tales pecados y para un verdadero amor a la Cruz.
+		
+		\n\n<h1><b>6.<u>La crucifixión de Jesús</u></b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, por medio de las manos inmaculadas de María y el Sagrado Corazón de Jesús, te ofrezco a Tu Hijo en la Cruz, cuando lo clavaron y lo levantaron, las heridas en Sus Manos y en Sus Pies y los tres hilos de la preciosísima Sangre que derramó allí por nosotros, las extremas torturas del Cuerpo y del Alma, Su muerte preciosa y Su renovación no sangrienta en todas las Santas Misas de la tierra, como expiación de todas las heridas contra los votos y normas dentro de las Órdenes, como reparación de mis pecados y los de todo el mundo, por los enfermos y moribundos, por todos los santos sacerdotes y laicos, por las intenciones del Santo Padre por la restauración de las familias cristianas, para el fortalecimiento de la Fe, por nuestro país y por la unión de todas las naciones en Cristo y Su Iglesia, así como también por la diáspora.
+		
+		\n\n<h1><b>7.La llaga del costado de Jesús</b></h1>
+    	\n
+    	<b>Padre Nuestro</b>
+        \n
+        que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal.
+        \n
+        Amén.
+        \n\n
+        <b>Ave María</b>
+        \n
+        Dios te salve María llena eres de gracia el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la ahora de nuestra muerte.
+        \n
+        Amén.
+		\n\n
+		Padre Eterno, acepta como dignas, por las necesidades de la Santa Iglesia y como expiación de los pecados de toda la humanidad, la preciosísima Sangre y el Agua que manó de la herida del Sagrado Corazón de Jesús. Sé Misericordioso para con nosotros. ¡Sangre de Cristo, el último contenido precioso de Su Sagrado Corazón, lávame de todas mis culpas de pecado y las de los demás! ¡Agua del costado de Cristo, lávame totalmente de las penitencias del pecado y extingue las llamas del Purgatorio para mí y para todas las almas del Purgatorio!
+		\n 
+		Amén.		
+		\n\n
+		<b>La Salve (Salve Regina).</b>
+		\n\n
+		Dios te salve, Reina y Madre de misericordia, vida y dulzura y esperanza nuestra: Dios te salve. A ti llamamos los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos y, después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clementísima! ¡oh piadosa! ¡oh dulce Virgen María!
+		\n
+		- Ruega por nosotros santa Madre de Dios, \n
+		- Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.
+		\n
+		Amén.
+		\n\n
+		</string>
+
+</resources>

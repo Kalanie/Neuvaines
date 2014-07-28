@@ -1,0 +1,64 @@
+idées.
+	Faire un suivit avec un calendrier. Proposer une solution pour faire plusieurs neuvaines en même temps.
+	Notion de neuvaine active ? Notification quotidienne ?
+	Notification pour une neuvaine saisonnière ? 
+	Liste des neuvaine en onglet 1, Détails => Active / pas active. Date début, historique.
+	
+	
+	ok => Proposer plusieurs neuvaines dans pusieurs langues
+	Faire un système de notification pour les neuvaines avec des dates.
+	Ajout de nouvelles neuvaines (pour l'utilisateur).
+	
+	Hors sujet :
+	Prière répartie sur chaque début de chaque mois. Chaque vendredi. ? 
+	Receuil de prières ?
+	
+	Prière qutotidienne
+	saint bernard de clairvaux prière épaule 
+	http://petitremy.centerblog.net/rub-Priere-revelee-par-JESUS-a-St-Bernard-JNSR-.html
+	
+	Dans l'onglet prière mettre les jours bout à bout avec une validation par un bouton ou selon la position.
+	ou
+	Dans l'onglet prière lorsqu'un jour est fini proposer un bouton jour suivant (un bouton jour précédent est là aussi).
+	jour1 jour2 etc. 
+	
+		
+Essais concrets
+	- Une seule neuvaine à la fois (?) Dans l'immédiat oui. 
+	- Liste dans l'onglet n°1 des neuvaines disponibles.
+	- En cliquant sur un bouton de neuvaine faire afficher une fenêtre modale pour activer
+	la neuvaine au jour courrant ou à un jour donné. 
+	- Par défaut tout est remplit et il suffit de faire valider pour que la neuvaine soit prête.
+	- Si une neuvaine est dans une période active, ajouter un symbol près des boutons 
+		(une bougie allumée qui brille).
+	Animation voir => http://developer.android.com/guide/topics/resources/animation-resource.html
+	
+	- Une neuvaine activée se voit par un symbol event dans les jours du calendrier.
+	Les jours fait la bougie est allumée et rouge. Les jours non fait la bougie est éteinte ou blanche.
+	
+
+Neuvaines en français.
+http://www.spiritualite-chretienne.com/prieres/neuvaines/neuvaine.html
+
+Neuvaines en chinois.
+http://www.chinacath.org/article/other/jiaoyou/ora/2009-12-01/4249.html
+Le parvis,
+	www.parvis.ch
+	stellamaris@parvis.ch
+	+41 26 915 93 93
+	
+Chrétiens magazines
+Rassemblement à Son Image, Places des Fontaines, Capelle,
+12850 ONET LE CHATEAU Tél : 05 65 78 01 95 - www.asonimage.fr
+
+Idée de neuvaines.
+------------------
+
+La Sainte Vierge
+Saint Joseph
+La miséricorde
+Les défuns (les âmes du purgatoire)
+Saint Esprit => http://notredamedesneiges.over-blog.com/categorie-534975.html
+
+
+ 
