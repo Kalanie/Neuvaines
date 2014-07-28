@@ -1,0 +1,206 @@
+<resources>
+    <!--
+    ROUMAIN 7 notre père.
+    notre père 
+    http://www.nistea.com/clement_tatalnostru.htm
+    rugăciune = prière
+    oraisons = rugăciuni
+    șapte = sept
+    Tatal nostru = notre père
+    je vous salue marie = Bucură-te, Marie http://www.crestinortodox.ro/comunitate/group_discussion_view.php?group_id=15&grouptopic_id=3150
+    je vous salue reine = Bucură-te Regina, http://www.catolicmold.md/rug-md/regina-md/
+    święty = sainte
+    7 pater noster=> http://www.rugaciunecatolica.ro/rugaciunile-familiei-crestine/rugaciuni-pentru-anul-liturgic/450-cele-7-rugciuni-revelate-sfintei-brigitta
+    			  => http://www.novena.ro/produs.php?id=52&lang=fr
+    			  => http://www.e-communio.ro/stire558-sfanta-brigita	
+     -->
+    <!--<string name="validateDay">Ziua Validare</string>-->
+    <string name="app_name">Șapte Tatăl nostru</string>
+    <string name="validateAndGoUp">Valida</string>
+    <string name="_choice">alegere</string>
+    <string name="_years">an(i)</string>
+    <string name="_months">lună(i)</string>
+    <string name="_days">zi</string>
+    <string name="smallCandel">1 zi</string>
+    <string name="MediumCandel">1 lună</string>
+    <string name="BigCandel">1 an</string>
+    <string name="startDate">început</string>
+            
+    <string name="DataExport">export de date</string>
+    <string name="MailOnly">Mel numai</string>
+    <string name="MailAndPDF">Mel + PDF</string>
+    <string name="MailAndTextFile">Mel + fișier text</string>
+    <string name="DeviceMemoryAndPDF">PDF fișier (dispozitiv de memorie)</string>
+    <string name="DeviceMemoryAndTextFile">fișier text (dispozitiv de memorie) </string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Revenire</string>
+    <string name="FileLocation">Localizare</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Mailer lipsă.</string>
+    <string name="FileWriteFailed">Fișier de scriere a eșuat.</string>
+    <string name="ExternalFolderUnavailable">Director extern indisponibil.</string>
+    
+    <string name="promises">
+      <b>Cele 7 rugăciuni revelate sfintei Brigitta</b>
+      \n
+      Isus Cristos i-a descoperit Sfintei Brigitta urmatoarea fagaduinta: Sa stiti ca acelora, care timp de 12 ani vor spune in fiecare zi 7 Tatal nostru si 7 Bucura-te Marie in cinstea Pretiosului Sange, le voi acorda 5 haruri: 
+      \n 
+      1. Nu vor merge in Purgatoriu.\n
+      2. Ii voi lua in numarul martirilor, ca si cum si-ar fi varsat sangele pentru credinta.\n
+      3. Voi pastra trei suflete la alegere dintre rudele lor in harul sfintitor.\n
+      4. Voi scapa de condamnarea vesnica urmatoarele patru generatii din familia lor.\n
+      5. Vor fi anuntati cu o luna inainte de propria moarte.\n
+      Daca cel, care le spune, moare cumva inainte de implinirea celor 12 ani, Eu voi considera ca aceste conditii necesare au fost deja implinite.\n
+      \n
+    </string>
+    
+    <string name="priere">
+        <h1><b><u>Rugaciune de inceput.</u></b></h1>\n
+    	O Isuse, unindu-ma cu Iubirea prin care ai sfintit aceasta rugaciune in Inima Ta, doresc sa o adresez Tatalui Ceresc, rugandu-ma de sapte ori Tatal nostru. Primeste-o de pe buzele mele in Inima Ta adorabila. Completeaza-o si o inbunatateste in mod perfect, astfel incat sa poata aduce Sfintei Treimi tot atata onoare si bucurie, cata l-ai adus Tu revarsand aceasta rugaciune pe pamant. Fie ca onoarea si bucuria sa se reverse asupra Sfintei Tale Umanitati ca o glorificare a dureroaselor Tale Rani si a Pretiosului Sange care a iesit din ele.
+    	\n
+    	Amin.
+    	\n\n
+    	
+    	<h1><b>1.<u>Circumciziunea Pruncului Isus</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, primele rani, primele dureri si primele picaturi de sange pe care Isus le-a varsat, ca ispasire pentru pacatele tineretii mele si ale tuturor oamenilor, si ca ajutor in evitarea primelor pacate de moarte de catre copii si tineri, mai ales de catre cei din familia mea.
+        \n
+        Amin.
+		
+		\n\n
+		<h1><b>2.<u>Agonia lui Isus de pe Muntele Maslinilor</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, teribilele suferinte ale Inimii lui Isus de pe Muntele Maslinilor si fiecare picatura a sudorii Sale insangerate, ca ispasire pentru pacatele inimii mele si ale tuturor inimilor omenesti, ca ajutor in evitarea acestor pacate si pentru raspandirea iubirii divine si fraterne.
+		\n
+    	Amin.
+    	
+    	
+		\n\n
+		<h1><b>3.<u>Biciuirea lui Isus</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, Iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, nenumaratele lovituri, durerile cumplite si pretiosul Sange al lui Isus varsat in timpul biciuirii, ca ispasire pentru pacatele mele trupesti si ale tuturor oamenilor, ca ajutor in evitarea acestor pacate si pentru salvarea inocentei, mai ales a celor din familia mea.
+		\n
+    	Amin.
+		
+		\n\n
+		<h1><b>4.<u>Incununarea cu spini a lui Isus</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, ranile, durerile si pretiosul Sange al Capului Divin, varsat in urma incununarii cu spini, ca ispasire pentru pacatele spiritului si ale mintii mele si ale tuturor oamenilor, ca ajutor in evitarea acestor pacate si pentru extinderea imparatiei lui Cristos pe pamant.
+		\n
+    	Amin.
+		
+		\n\n
+		<h1><b>5.<u>Purtarea Crucii</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, suferintele lui Isus de pe drumul Crucii, si mai ales Sfanta Rana de pe umar cu pretiosul Sange care a curs din ea, ca ispasire pentru razvratirea impotriva crucii, a mea si a tuturor oamenilor, pentru refuzarea sfintei Tale Vointe in viata noastra si pentru orice alt pacat al limbii, ca ajutor in evitarea acestor pacate si pentru o adevarata iubire a Crucii Tale Sfinte.
+		\n
+    	Amin.
+
+		\n\n
+		<h1><b>6.<u>Rastignirea lui Isus</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, iti ofer prin mainile neprihanite ale Mariei si prin Inima Dumnezeiasca a lui Isus, pe scumpul Tau Fiu rastignit si inaltat pe Cruce, ranile Sale de la maini si picioare si Sfantul Sange care a curs din ele pentru noi, marea Sa saracie, ascultarea Sa desavarsita, teribilele Sale chinuri sufletesti si trupesti, pretioasa Sa moarte si reinnoirea nesangeroasa a Patimii in toate Sfintele Liturghii celebrate pe pamant. Primeste aceste suferinte ale lui Isus ca ispasire pentru toate incalcarile sfintelor voturi si reguli in ordinele calugaresti, pentru pacatele mele si ale lumii intregi, pentru bolnavi si muribunzi, pentru preoti si laici, pentru intentia Sfantului Parinte de a restabili unitatea familiei crestine, pentru intarirea in credinta, pentru patria noastra, pentru unitatea in Cristos a tuturor popoarelor si a Bisericii si pentru poporul evreu.
+		\n
+    	Amin.
+
+		\n\n
+		<h1><b>7.<u>Deschiderea Sfintei Coaste a lui Isus</u></b></h1>
+    	\n\n
+        <b>Tatal nostru</b>
+        \n
+        Care esti in ceruri Sfinteasca-se numele Tau Vie imparatia Ta Faca-se voia Ta Precum in cer asa si pre Pamant Painea noastra cea de toate zilele Da-ne-o noua astazi Si ne iarta noua gresalele noastre Precum si noi iertam gresitilor nostri Si nu ne duce pre noi in ispita Ci ne izbaveste de cel rau Ca a Ta este imparatia Puterea si Slava In numele Tatalui Al Fiului Al Sfantului Duh
+        \n
+        Amin.
+        \n\n
+        <b>Bucura-te Maria,</b>
+        \n
+        cea plina de har, Domnul este cu tine. Binecuvantata esti tu intre femei si Binecuvantat este rodul trupului tau, Iisus, Sfanta Marie, Maica lui Dumnezeu, Roaga-Te pt noi pacatosii, Acum si-n ceasul mortii noastre
+        \n
+        Amin.
+		\n\n
+		Vesnice Parinte, primeste pentru nevoile Sfintei Biserici si ca ispasire pentru pacatele umanitatii, pretiosul Sange si Apa care au curs din rana Divinei Inimi a lui Isus. Te imploram: Fii bun si milostiv cu noi toti! Sange a lui Isus, cel din urma continut al Inimii Sale Sfinte, purifica-ma de orice vina pentru pacate! Apa coastei lui Cristos, elibereaza-ma de orice pedeapsa meritata pentru pacatele mele si stinge flacarile Purgatoriului pentru mine si pentru toti cei ce se gasesc deja acolo.
+		\n
+    	Amin.
+
+		\n\n
+		<b><u>Bucură-te Regină</u></b>
+		\n
+		maica milei, viaţa, mângâierea şi nădejdea noastră, Bucură-te. Către tine strigăm surghiuniţi fii ai Evei. Către tine suspinăm, gemând şi plângând în această vale de lacrimi. Aşadar, mijlocitoarea noastră, întoarce spre noi ochii tăi cei milostivi şi după surghiunul acesta, aratâ-ni-l nouă pe Isus, binecuvântat rod al trupului tău. O milostivă, o blândă, o dulce Fecioară Maria!
+		\n
+		Amin.
+		\n\n
+		</string>
+
+</resources>

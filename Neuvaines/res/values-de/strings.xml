@@ -1,0 +1,178 @@
+<resources>
+    <!-- 
+    Allemand
+    Google playstore (texte spécifique) :
+    Application gratuite et sans publicité. => Kostenlose Anwendung ohne Werbung.
+    
+     -->
+    <!--<string name="validateDay">Machen Sie Tag gültig</string>-->
+    <string name="app_name">Sieben Unser Vater</string>
+    <string name="validateAndGoUp">Gültig machen</string>
+    <string name="_choice">möglichkeit</string>
+    <string name="_years">jahr(e)</string>
+    <string name="_months">monat(en)</string> 
+    <string name="_days">tag(e)</string>
+    <string name="smallCandel">1 tag</string>
+    <string name="MediumCandel">1 monat</string>
+    <string name="BigCandel">1 jahr</string>
+    <string name="startDate">Beginn</string>
+        
+    <string name="DataExport">EXPORT DATA</string>
+    <string name="MailOnly">Mail nur</string>
+    <string name="MailAndPDF">Mail + PDF</string>
+    <string name="MailAndTextFile">Mail + Textdatei</string>
+    <string name="DeviceMemoryAndPDF">PDF-Datei (Gerätespeicher)</string>
+    <string name="DeviceMemoryAndTextFile">Text-Datei (Device Memory)</string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Rückkehr</string>
+    <string name="FileLocation">Location</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Keine Software E-Mail.</string>
+    <string name="FileWriteFailed">Datei-Schreib fehlgeschlagen.</string>
+    <string name="ExternalFolderUnavailable">Externe Ordner verfügbar.</string>
+    
+    <string name="promises">
+        <b>Der göttliche Heiland offenbarte der heiligen Birgitta folgende Verheißung.</b>
+        \n
+		Wisset, daß Ich denjenigen, welche 12 Jahre lang sieben Vaterunser und Ave Maria zu Ehren meines Kostbaren Blutes beten, große Gnaden erweisen werde : \n       
+        1. Sie kommen nicht ins Fegefeuer.\n
+		2. Ich werde sie in die Zahl der Märtyrer aufnehmen, wie wenn sie ihr Blut für den Glauben vergossen hätten.\n
+		3. Ich werde drei Seelen ihrer Anverwandten in der heiligmachenden Gnade erhalten, je nach ihrer Wahl.\n
+		4. Die Seelen ihrer Verwandten bis ins 4. Glied werden der Hölle entgehen.\n
+		5. Sie werden 1 Monat vor ihrem Tod davon in Kenntnis gesetzt.\n
+
+		Sollten sie vor dieser Zeit sterben, so betrachte ich es als geschehen, d.h. wie wenn sie diese Bedingungen erfüllt hätten.\n
+ 		Papst Innozenz X. bestätigte diese Offenbarung und fügte bei, daß die Seelen, die sie erfüllen, jeden Karfreitag eine Seele aus dem Fegefeuer befreien.</string>
+        
+    <string name="priere"><h1><b>Gebet.</b></h1>\n
+    	O Jesus, ich will jetzt siebenmal das Vaterunser beten in Vereinigung mit jener Liebe, in welcher Du dieses Gebet in Deinem Herzen geheiligt und versüßt hast. Nimm es von meinen Lippen in Dein göttliches Herz auf, verbessere und vervollkommne es so sehr, daß es der Allerheiligsten Dreifaltigkeit soviel Ehre und Freude bereite, als Du ihr auf Erden mit diesem Gebet erwiesen hast, und diese mögen überströmen auf Deine heiligste Menschwerdung zur Verherrlichung Deiner heiligen Wunden und des Kostbaren Blutes, das Du daraus vergossen hast.
+    	\n\n
+    	
+    	<h1><b>1.<u>Beschneidung</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n		
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir die ersten Wunden, die ersten Schmerzen und die erste Blutvergießung Jesu auf zur Sühne für meine und aller Menschen Jugendsünden und zur Verhütung erster Todsünden, besonders in meiner Verwandtschaft.
+		\n\n
+
+		<h1><b>2.<u>Blutschweiß</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir die furchtbaren Leiden des Herzens Jesu am Ölberg auf und jedes Tröpflein seines Blutschweißes zur Sühne für meine und aller Menschen Sünden des Herzens, zur Verhütung solcher Sünden und für die Vermehrung der Gottes- und Nächstenliebe.
+		\n\n
+		
+		<h1><b>3.<u>Geißelung</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir die vielen tausend Wunden, die grausamen Schmerzen und das Kostbare Blut Jesu von der Geißelung auf zur Sühne für meine und aller Menschen Sünden des Fleisches, zur Verhütung solcher Sünden und für die Bewahrung der Unschuld, besonders in meiner Verwandtschaft.
+		\n\n
+		
+		<h1><b>4.<u>Dornenkrönung</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir die Wunden, die Schmerzen und das Kostbare Blut des heiligen Hauptes Jesu von der Dornenkrönung auf zur Sühne für meine und aller Menschen Sünden des Geistes, zur Verhütung solcher Sünden und für die Ausbreitung des Königtums Christi auf Erden.
+		\n\n
+		
+		<h1><b>5.<u>Kreuztragung</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir die Leiden Jesu auf seinem Kreuzweg auf, besonders seine heilige Schulterwunde und deren Kostbares Blut zur Sühne für meine und aller Menschen Auflehnung gegen das Kreuz und Murren gegen Deine heiligen Anordnungen und alle anderen Zungensünden, zur Verhütung solcher Sünden und für wahre Kreuzesliebe.
+		\n\n
+		
+		<h1><b>6.<u>Kreuzigung Jesu</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, durch die unbefleckten Hände Mariä und das göttliche Herz Jesu opfere ich Dir Deinen göttlichen Sohn am Kreuze auf, seine Annagelung und seine Erhöhung, seine Wunden an Händen und Füßen und die drei Ströme seines heiligen Kostbaren Blutes, die sich daraus für uns ergossen, seine äußerste Armut, seinen vollkommenen Gehorsam, alle seine Körper- und Seelenqualen, seinen Kostbaren Tod und dessen unblutige Erneuerung in allen heiligen Messen der Erde zur Sühne aller Verletzungen der heiligen Ordensgelübde und Ordensregeln, zur Genugtuung für meine und der Welt Sünden, für die Kranken und Sterbenden, für heiligmäßige Priester und Laien, für die Anliegen des Heiligen Vaters, zur Wiederherstellung der christlichen Familie, für Starkmut im Glauben, für unser Vaterland und die Einheit der Völker in Christus und seiner Kirche, sowie für die Diaspora.
+		\n\n
+		
+		<h1><b>7.<u>Öffnung der heiligen Seite</u></b></h1>
+    	\n\n
+    	<b>Vater unser</b>
+    	\n
+		im Himmel, Geheiligt werde dein Name. Dein Reich komme. Dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Denn Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. 
+		\n
+		Amen.
+        \n\n
+        <b>Gegrüßet seist Du, Maria</b>
+        \n
+		voll der Gnade. Der Herr ist mit Dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht Deines Leibes, Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder, jetzt und in der Stunde unseres Todes.
+		\n
+		Amen. 
+		\n\n
+		Ewiger Vater, würdige Dich, für die Bedürfnisse der heiligen Kirche und zur Sühnung der Sünden aller Menschen das Kostbare Blut und Wasser anzunehmen, welches aus der Wunde des göttlichen Herzens Jesu geflossen ist, und sei uns allen gnädig und barmherzig. Blut Christi, letzter kostbarer Inhalt seines heiligen Herzens, wasche mich rein von allen eigenen und fremden Sündenschulden; Wasser der Seite Christi, wasche mich rein von allen Sündenstrafen und lösche mir und allen Armen Seelen die Flammen des Fegfeuers aus.  Amen.		
+		\n\n
+		
+		<b>Salve Regina.</b>
+		\n\n
+		Sei gegrüßt, o Königin, Mutter der Barmherzigkeit, unser Leben, unsre Wonne und unsere Hoffnung, sei gegrüßt! Zu dir rufen wir verbannte Kinder Evas; zu dir seufzen wir trauernd und weinend in diesem Tal der Tränen. Wohlan denn, unsre Fürsprecherin, wende deine barmherzigen Augen uns zu, und nach diesem Elend zeige uns Jesus, die gebenedeite Frucht deines Leibes. O gütige, o milde, o süße Jungfrau Maria. 
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>

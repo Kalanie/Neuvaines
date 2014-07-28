@@ -1,0 +1,184 @@
+<resources>
+    <!--
+    	POLONAIS
+    	google => ?
+    	 
+    	święta Brygida szwedzka
+    	sainte Brigitte de suède.
+    	http://www.duchprawdy.com/siedem_modlitw_sw_brygidy.htm
+    	je vous salue Marie
+    	http://pl.wikipedia.org/wiki/Zdrowa%C5%9B_Maryjo
+    	Notre Père
+    	http://pl.wikipedia.org/wiki/Ojcze_nasz
+     -->
+    <!--<string name="validateDay">Uprawomocnić dnia</string>-->
+    <string name="app_name">Siedem Ojcze Nasz</string>
+    <string name="validateAndGoUp">Uprawomocnić</string>
+    <string name="_choice">wybór</string>
+    <string name="_years">rok(lat)</string>
+    <string name="_months">miesiąc(miesięcy)</string>
+    <string name="_days">dzień(dni)</string>
+    <string name="smallCandel">1 dzień</string>
+    <string name="MediumCandel">1 miesiąc</string>
+    <string name="BigCandel">1 rok</string>
+    <string name="startDate">Początek</string>
+            
+    <string name="DataExport">Eksport danych</string>
+    <string name="MailOnly">Tylko maila</string>
+    <string name="MailAndPDF">Poczta i PDF</string>
+    <string name="MailAndTextFile">Mail i Plik tekstowy</string>
+    <string name="DeviceMemoryAndPDF">Plik PDF (pamięci urządzenia)</string>
+    <string name="DeviceMemoryAndTextFile">Plik tekstowy (w pamięci urządzenia)</string>
+    <string name="EXPORT">Eksport</string>
+    <string name="Return">Powrót</string>
+    <string name="FileLocation">Lokalizacja</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Brak oprogramowania poczty.</string>
+    <string name="FileWriteFailed">Zapisu pliku nie powiodło się.</string>
+    <string name="ExternalFolderUnavailable">Folder zewnętrzny niedostępny.</string>
+    
+    <string name="promises">
+      <b>7 Ojcze Nasz i 7 Zdrowaś Maryjo ku czci Najdroższej Krwi Jezusa Chrystusa</b>
+      \n
+      Za podstawę praktyki modlitewnej - siedmiu Ojcze nasz i siedmiu Zdrowaś Maryjo służy objawienie, którego nasz Pan i Zbawiciel udzielił Swoim Świętym: Św. Brygidzie, Św. Gertrudzie i Św. Mechtyldzie: "Wiedzcie, Moje najdroższe córki, iż kiedy Mnie pojmano na świecie, zadano Mi 16 razów i 30 policzków. Od Ogrójca aż do domu Annasza, kiedy z powodu zmęczenia padłem na ziemię, wycięto mi 16 razów na plecach i nogach, aby Mnie zmusić do powstania. Podnoszono Mnie za brodę 33 razy. Przy słupie biczowania popychano Mnie gwałtownie. Zadano Mi jeden śmiertelny cios i wycięto Mi 6.666 uderzeń. Koronę cierniową wtłoczono Mi na Głowę i wiele cierni przeszyło Mnie aż do mózgu, które zadały Mi 32 rany na Głowie Mojej. Tam też uderzono Mnie trzy razy, przyprawiając Mnie nieomal o śmierć za każdym razem. Pluto Mi w twarz 73 razy. Żołnierzy, którzy Mnie pojmali, było 68, tych, pod których straż Mnie oddano, było 33. Trzy razy byłem bliski skonania. Podczas biczowania upłynęły Mi 30.403 krople krwi. Przeto najdroższe córki, ktokolwiek zmówi siedem Ojcze nasz i siedem Zdrowaś Maryjo co dzień, w przeciągu 12 lat, wypełni liczbę Kropli Krwi, które przelałem od narodzenia aż do śmierci, których było 30.403, jak wam przedtem objaśniłem. Poznajecie zatem łaski, których udzielę tym, którzy się dostosują do Mego życzenia. Są to następujące obietnice:  
+      \n 
+      1. Zostanie w godzinę śmierci zabrany bezpośrednio do Nieba bez Czyśćca.\n
+      2. Będzie zaliczony do grona największych świętych, jakoby przelewał krew za wiarę Chrystusową.\n
+      3. Bóg Ojciec będzie utrzymywał w jego rodzinie trzy Dusze w stanie Łaski Uświęcającej, według jego wyboru.\n
+      4. Dusze jego krewnych aż do czwartego pokolenia nie pójdą do Piekła.\n
+      5. Będzie powiadomiony przed swą śmiercią.\n
+      Uwaga: Gdyby osoba odmawiająca te modlitwy wcześniej zmarła, zaliczone będzie jakby odmówiła je w całości.\n
+      Papież Pius IX zatwierdził modlitwy 31 maja 1862 uznając je za prawdziwe i dla dobra dusz.  Sagii, die XXIV Aprilis 1903  Imprimatur.  FJ. Girard, V.G.\n
+    </string>
+    
+    <string name="priere">
+    	
+    	<h1><b>1.<u>Obrzezanie Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie pierwsze Rany, pierwsze Boleści i pierwsze przelanie Najświętszej Krwi Pana Jezusa na pokutę za moje i wszystkich ludzi grzechy młodości, na zapobieganie pierwszych grzechów ciężkich u dzieci i młodzieży, szczególnie w moim domu i moim pokrewieństwie.
+
+		\n\n
+		<h1><b>2.<u>Krwawy pot Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie tę okrutną Mękę Serca Pana Jezusa na Górze Oliwnej, każdą kroplę Krwi z Krwawego Potu na pokutę za wszystkie moje i wszystkich ludzi grzechy serca, na zapobieganie tym grzechom, na zwiększenie Miłości do Boga i do bliźnich naszych.
+
+		\n\n
+		<h1><b>3.<u>Biczowanie Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie te tysiące Ran okrutnej Boleści i Drogocenną Krew Pana Jezusa, spowodowaną biczowaniem, na pokutę za wszystkie moje i wszystkich ludzi grzechy serca, ciała i nieczystości, na zapobieganie tym grzechom i na zachowanie niewinności, zwłaszcza w moim pokrewieństwie, a szczególnie u dzieci i młodzieży.
+
+		\n\n
+		<h1><b>4.<u>Cierniem Koronowanie Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie Rany, Boleści i Drogocenną Krew Pana Jezusa z Koronowania Cierniem, na pokutę za wszystkie moje i wszystkich ludzi grzechy umysłu, na zapobieganie tym grzechom, na rozpowszechnianie Królestwa Chrystusowego na ziemi.
+		
+		\n\n
+		<h1><b>5.<u>Dźwiganie krzyża</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie tę okrutną Mękę Drogi Krzyżowej i przelaną tam Drogocenną Krew, na pokutę za wszystkie moje i wszystkich ludzi grzechy, za bunt przeciw Twoim Świętym Postanowieniom, przeciw wszystkim innym grzechom i na ubłaganie prawdziwej Miłości do Krzyża.
+
+		\n\n
+		<h1><b>6.<u>Ukrzyżowanie Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi ofiaruję Tobie Twojego Boskiego Syna na Krzyżu, Jego przybicie do Krzyża, Jego Podniesienie na Krzyżu, Jego Święte Rany na Rękach, Nogach i Boku, Jego Drogocenną Krew, która wylała się za nas; Jego skrajną Biedę, Jego Posłuszeństwo i bezkrwawe odnawianie się Świętych Ran Jego we wszystkich Mszach Świętych na ziemi - na pokutę za skaleczenie Świętych Zakonnych ślubowań i reguł, na zadośćuczynienie za wszystkie moje i wszystkich ludzi grzechy, za chorych i umierających, za kapłanów i laikat, za życzenia i prośby Ojca Świętego, za odnowę rodzin chrześcijańskich, za umocnienie w wierze, za Ojczyznę moją i jedność rodzin i narodów, jedność Kościoła w Chrystusie, za dusze w Czyśćcu cierpiące i te, które znikąd ratunku nie mają.
+
+		\n\n
+		<h1><b>7.<u>Otworzenie Świętego Boku Pana Jezusa</u></b></h1>
+    	\n\n
+        <b>Ojcze nasz</b>
+        \n
+        któryś jest w niebie, Święć się imię twoje, Przyjdź Królestwo twoje, Bądź wola twoja, jak w niebie, tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom; I nie wódź nas na pokuszenie, ale nas zbaw ode złego; Albowiem twoje jest Królestwo i moc, i chwała na wieki wieków.
+        \n
+        Amen.
+        \n\n
+        <b>Zdrowaś Maryjo</b>
+        \n
+        łaski pełna, Pan z Tobą. Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi, teraz i w godzinę śmierci naszej.
+        \n
+        Amen.
+		\n\n
+		Ojcze, Przedwieczny Boże, przez Najświętsze Serce Pana Jezusa i Niepokalane Serce Maryi racz przyjąć otworzenie Świętego Boku i Serca Pana Jezusa za potrzeby Kościoła Świętego i na pokutę za grzechy moje i grzechy wszystkich ludzi. Racz przyjąć tę Drogocenną, Najświętszą Krew i Wodę, która została przelana z Rany Boku i Boskiego Serca Pana Jezusa, i racz nam być łaskawym i miłosiernym. O Przenajświętsza Krwi Chrystusa, racz oczyścić mnie i wszystkich ludzi od własnych i obcych win grzechowych. O Przenajświętsza Wodo z Najświętszego Boku i Serca Pana naszego, Jezusa Chrystusa, racz uwolnić mnie i wszystkich ludzi od kar za grzechy i racz ugasić mnie i wszystkim biednym duszom płomień czyśćcowy. Amen.
+		
+		
+		\n\n
+		<b><u>Zakończenie</u></b>
+		\n
+		Panie i Boże nasz, racz nie karać nas za grzechy nasze według Świętej Sprawiedliwości Twojej, ale racz nam być łaskawym według Wielkiego Miłosierdzia Twego. Panie Jezu, który konałeś na Krzyżu za nas, zanurz w Swoim Najświętszym Konaniu na wieki nasze dusze, abyśmy dostąpili zbawienia przez Najświętszą Agonię Twoją. Uwielbiam Cię Ojcze, przez Miłosierdzie Syna Twego. Boże, wierzę w Ciebie i ufam Dobroci Twojej teraz i zawsze, i na wieki wieków.
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>

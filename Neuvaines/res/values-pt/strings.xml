@@ -1,0 +1,191 @@
+<resources>
+    <!--
+    PORTUGAIS
+     
+     -->
+    <!--<string name="validateDay">Valide dia</string>-->
+    <string name="app_name">Sete Pai Nosso</string>
+    <string name="validateAndGoUp">Valide</string>
+    <string name="_choice">escolha</string>
+    <string name="_years">ano(s)</string>
+    <string name="_months">mês(es)</string>
+    <string name="_days">dia(s)</string>
+    <string name="smallCandel">1 dia</string>
+    <string name="MediumCandel">1 mês</string>
+    <string name="BigCandel">1 ano</string>
+    <string name="startDate">Começo</string>
+            
+    <string name="DataExport">EXPORTAÇÃO DE DADOS</string>
+    <string name="MailOnly">Correio somente</string>
+    <string name="MailAndPDF">Correio + PDF</string>
+    <string name="MailAndTextFile">Correio + Arquivo de texto</string>
+    <string name="DeviceMemoryAndPDF">Arquivo PDF (Memória do dispositivo)</string>
+    <string name="DeviceMemoryAndTextFile">Arquivo de texto (Memória do dispositivo)</string>
+    <string name="EXPORT">Exportação</string>
+    <string name="Return">Retorno</string>
+    <string name="FileLocation">localização</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Falta Software Correio.</string>
+    <string name="FileWriteFailed">Gravação de arquivo falhou.</string>
+    <string name="ExternalFolderUnavailable">Pasta External indisponíveis.</string>
+    
+    <string name="promises">
+      <b>O divino Salvador revelou a Santa Brígida a seguinte promessa</b>
+      \n
+      Sabei que darei 5 graças àqueles que, durante 12 anos, rezarem sete Pai Nossos e Ave Marias em honra do meu precioso Sangue : 
+      \n 
+      1. Não terão que passar pelo purgatório.\n
+      2. Aceitá-los-ei no Coro dos Mártires como se tivessem derramado seu sangue pela fé.\n
+      3. Conservarei 3 almas de seus parentes na graça santificante conforme sua escolha.\n
+      4. As almas dos seus parentes até o 4o. grau escaparão do inferno.\n
+      5. Um mês antes de sua morte ser-lhes-á dado conhecimento dela.\n
+      Se por acaso morrerem antes dos 12 anos completos, irei julgar como se fossem as condições cumpridas.\n
+      Papa Inocêncio X confirmou esta revelação e acrescentou que as almas cumpridoras das condições libertarão cada 6a. feira Santa uma alma do purgatório.\n
+      Esta devoção foi aprovada e recomendada pela santa Congregação do Sacro-Colégio da Propaganda Fide. Também foi aprovada pelo Papa Clemente XI (Pontífice de 1730-1740)
+    </string>
+    
+    <string name="priere">
+        <h1><b>Sinal da Cruz</b></h1>\n
+        Oração ao Espírito Santo: Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Enviai o vosso Espírito e tudo será criado e renovareis a face da Terra.
+        \n\n
+
+		Oremos: Ó Deus, que instruístes os corações dos vossos fiéis com a luz do Espírito Santo, concedei-nos que, pelo mesmo Espírito Santo, saibamos o que é reto e gozemos sempre de sua preciosa consolação. Por Cristo, Senhor Nosso. Amém.
+		\n\n
+        
+        <h1><b><u>As Orações.</u></b></h1>\n
+        
+    	Ó Jesus, agora quero rezar 7 vezes o Pai Nosso unido àquele amor com que Vós santificastes e dulcificastes no Vosso Coração esta prece. Aceitai-os dos meus lábios para o Vosso divino Coração, melhorai-os e aperfeiçoai-os tanto que eles promovam tanta honra e glória à SS. Trindade como Vós a oferecestes por esta oração. E esta honra e glória transborde para Vossa SS. natureza humana, a fim de glorificar Vossas Santas Chagas e o preciosíssimo Sangue derramado por Vós.
+    	\n\n
+    	
+    	<h1><b>1.<u>Circuncisão de Jesus</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos a primeira ferida, as primeiras dores e o primeiro derramamento do Sangue de Jesus como reparação dos meus pecados e dos de todos os homens durante a juventude, como preservativo contra os primeiros pecados graves principalmente entre os meus parentes.
+
+		\n\n
+		<h1><b>2.<u>O Suor de Sangue</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos os horríveis tormentos de Jesus no Horto das Oliveiras e cada gota do Seu suor de sangue como reparação dos meus pecados de coração e os de todos os homens, como preservativo contra tais pecados e pelo aumento do amor a Deus e ao próximo.
+
+		\n\n
+		<h1><b>3.<u>Flagelação de Jesus</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos as milhares feridas, as dores cruéis e o preciosíssimo Sangue de Jesus derramado na flagelação como reparação dos meus pecados da carne e os de todos os homens, como preservativo contra tais pecados e para a conservação da pureza principalmente nos meus parentes.
+
+		\n\n
+		<h1><b>4.<u>Coroação de Espinhos</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos as feridas, as dores e o precioso Sangue da santa Cabeça de Jesus derramado na coroação de espinhos como reparação dos meus pecados de espírito e os de todos os homens, como preservativo contra tais pecados e pela expansão do Reino de Cristo na terra.
+		
+		\n\n
+		<h1><b>5.<u>Caminho da Cruz</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos os sofrimentos de Jesus na sua Via Sacra em particular na santa chaga do ombro e o precioso Sangue da mesma como reparação da minha revolta e a de todos os homens contra a cruz, do meu resmungar contra as determinações de Vossa santa vontade e de todos os outros pecados da língua, como preservativo contra tais pecados e para obter verdadeiro amor à cruz.
+
+		\n\n
+		<h1><b>6.<u>Crucificação de Jesus</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, pelas mãos imaculadas de Maria e pelo divino Coração de Jesus, ofereço-Vos o Vosso divino Filho na cruz, a sua elevação na cruz, Suas chagas nas mãos e pés e as três torrentes do Seu santo Sangue que delas se derramaram por nós, Sua extrema pobreza, Sua obediência, todos os Seus tormentos do corpo e da alma, Sua morte preciosa e a incruenta renovação dela em todas as Santas Missas da terra inteira como reparação de todas as transgressões dos santos votos e regras das ordens e congregações, dos meus pecados e dos do mundo inteiro, em favor dos doentes e moribundos, para obter santos sacerdotes e leigos, nas intenções do Santo Padre, para a restauração das famílias cristãs, para fortaleza na fé, por nossa pátria e a união dos povos em Cristo e Sua Igreja, como também pela diáspora.
+
+		\n\n
+		<h1><b>7.<u>Abertura do Santo Lado</u></b></h1>
+    	\n\n
+        <b>Pai nosso</b>
+        \n
+         que estais nos céus, santificado seja o Vosso Nome. Venha a nós o Vosso reino. Seja feita a Vossa Vontade, assim na terra como no céu. O Pão-Nosso de cada dia nos daí hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação mas livrai-nos do mal.
+        \n
+        Amém.
+        \n\n
+        <b>Ave-Maria</b>
+        \n
+        cheia de graça! o Senhor é convosco bendita sois vóis entre as mulheres e Bendito é o Fruto do vosso ventre, Jesus santa Maria Mãe de Deus, rogai por nós os pecadores agora e na hora de nossa morte. 
+        \n
+        Amém.
+		\n\n
+		Pai eterno, dignai-vos aceitar para as necessidades da Santa Igreja e como reparação dos pecados de todos os homens o preciosíssimo Sangue e água que manaram da chaga do divino Coração de Jesus e sede para todos nós clemente e misericordioso. Sangue de Cristo, último e preciosíssimo tesouro do Seu Sagrado Coração, purificai-me de todas as culpas, minhas e alheias, água do lado de Cristo, purificai-me de todos os castigos do pecado e apagai as chamas do purgatório para mim e para todas as almas santas nele. Amém.
+
+		\n\n
+		<b><u>Salve Rainha</u></b>
+		\n
+		Salve, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve. A vós bradamos os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei, e depois deste desterro mostrai-nos Jesus, bendito fruto do vosso ventre, ó clemente, ó piedosa, ó doce sempre Virgem Maria!
+		\n
+		- Rogai por nós Santa Mãe de Deus.
+		\n
+		- Para que sejamos dignos das promessas de Cristo.
+		\n
+		Amém.
+		\n\n
+		</string>
+
+</resources>

@@ -1,0 +1,196 @@
+<resources>
+    <!--<string name="validateDay">Validate Day</string>-->
+    <string name="app_name">Seven Our Father</string>
+    <string name="validateAndGoUp">Validate</string>
+    <string name="_choice">choice</string>
+    <string name="_years">year(s)</string>
+    <string name="_months">month(s)</string> 
+    <string name="_days">day(s)</string>
+    <string name="smallCandel">1 day</string>
+    <string name="MediumCandel">1 month</string>
+    <string name="BigCandel">1 year</string>
+    <string name="startDate">Beginning</string>
+            
+    <string name="DataExport">DATA EXPORT</string>
+    <string name="MailOnly">Mail only</string>
+    <string name="MailAndPDF">Mail + PDF</string>
+    <string name="MailAndTextFile">Mail + Text File</string>
+    <string name="DeviceMemoryAndPDF">PDF File (Device Memory)</string>
+    <string name="DeviceMemoryAndTextFile">Text File (Device Memory) </string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Return</string>
+    <string name="FileLocation">Location</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">No Software Mail.</string>
+    <string name="FileWriteFailed">File write failed.</string>
+    <string name="ExternalFolderUnavailable">External folder unavailable.</string>
+    
+        <string-array name="novena">
+        <item>NovenaSaintJoseph</item>
+        <item>NovenaSanctusSpiritus</item>
+        <item>NovenaSacredCoreOfJesus</item>
+    </string-array>
+	
+    <string name="NovenaSaintJoseph_title">Novena to Saint Joseph</string>
+    <string name="NovenaSaintJoseph_1">Joseph Prayer Day 1</string>
+    <string name="NovenaSaintJoseph_2">Joseph Prayer Day 2</string>
+    <string name="NovenaSaintJoseph_3">Joseph Prayer Day 3</string>
+    <string name="NovenaSaintJoseph_4">Joseph Prayer Day 4</string>
+    <string name="NovenaSaintJoseph_5">Joseph Prayer Day 5</string>
+    <string name="NovenaSaintJoseph_6">Joseph Prayer Day 6</string>
+    <string name="NovenaSaintJoseph_7">Joseph Prayer Day 7</string>
+    <string name="NovenaSaintJoseph_8">Joseph Prayer Day 8</string>
+    <string name="NovenaSaintJoseph_9">Joseph Prayer Day 9</string>
+    
+    <string name="NovenaSanctusSpiritus_title">Novena to the Holy Spirit</string>
+    <string name="NovenaSanctusSpiritus_1">Holy Spirit Prayer Day 1</string>
+    <string name="NovenaSanctusSpiritus_2">Holy Spirit Prayer Day 2</string>
+    <string name="NovenaSanctusSpiritus_3">Holy Spirit Prayer Day 3</string>
+    <string name="NovenaSanctusSpiritus_4">Holy Spirit Prayer Day 4</string>
+    <string name="NovenaSanctusSpiritus_5">Holy Spirit Prayer Day 5</string>
+    <string name="NovenaSanctusSpiritus_6">Holy Spirit Prayer Day 6</string>
+    <string name="NovenaSanctusSpiritus_7">Holy Spirit Prayer Day 7</string>
+    <string name="NovenaSanctusSpiritus_8">Holy Spirit Prayer Day 8</string>
+    <string name="NovenaSanctusSpiritus_9">Holy Spirit Prayer Day 9</string>
+    
+    <string name="NovenaSacredCoreOfJesus_title">Novena to the Sacred Heart of Jesus</string>
+    <string name="NovenaSacredCoreOfJesus_1">Sacred Heart of Jesus Prayer Day 1</string>
+    <string name="NovenaSacredCoreOfJesus_2">Sacred Heart of Jesus Prayer Day 2</string>
+    <string name="NovenaSacredCoreOfJesus_3">Sacred Heart of Jesus Prayer Day 3</string>
+    <string name="NovenaSacredCoreOfJesus_4">Sacred Heart of Jesus Prayer Day 4</string>
+    <string name="NovenaSacredCoreOfJesus_5">Sacred Heart of Jesus Prayer Day 5</string>
+    <string name="NovenaSacredCoreOfJesus_6">Sacred Heart of Jesus Prayer Day 6</string>
+    <string name="NovenaSacredCoreOfJesus_7">Sacred Heart of Jesus Prayer Day 7</string>
+    <string name="NovenaSacredCoreOfJesus_8">Sacred Heart of Jesus Prayer Day 8</string>
+    <string name="NovenaSacredCoreOfJesus_9">Sacred Heart of Jesus Prayer Day 9</string>
+        
+    <string name="priere"><h1><b>Prayer.</b></h1>\n
+    	O Jesus, now I wish to pray the Lord\'s Prayer seven times in unity with the love with which You sanctified this prayer in Your Heart. Take it from my lips into Your Divine Heart. Improve and complete it so much that it brings as much honor and joy to the Trinity as You granted it on earth with this prayer. May these pour upon Your Holy Humanity in Glorification to Your Painful Wounds and the Precious Blood that You spilled from them.
+    	\n\n
+    	
+    	<h1><b>1.<u>Circumcision</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee the first wounds, the first pains and the first bloodshed, as atonement for my and all of humanity\’s sins of youth, as protection against the first mortal sin, especially among my relatives.
+		
+		\n\n
+		<h1><b>2.<u>The Suffering on the Mount of Olives</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee the terrifying suffering of the Heart of Jesus on the Mount of Olives, and every drop of His Sweat of Blood, as atonement for my and all of humanity’s sins of the heart, as protection against such sins, and for the spreading of Divine and Brotherly Love.
+		\n\n
+		
+		<h1><b>3.<u>The Scourging</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee the many thousands of Wounds, the gruesome Pains and the Precious Blood of the Scourging, as atonement for my and  all of humanity’s sins of the Flesh, as protection against such sins and the preservation of innocence, especially among my relatives.
+
+		\n\n<h1><b>4.<u>The Crowning with Thorns</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee the Wounds, the Pains and the Precious Blood of the Holy Head of Jesus from the Crowning with Thorns, as atonement for my and  all of humanity’s sins of the spirit, as protection against such sins and for the spreading of the Kingdom  of Christ here on Earth.
+		
+		\n\n<h1><b>5.<u>The Carrying of the Cross</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee the Sufferings on the Way of the Cross, especially the Holy Wound on His Shoulder and its precious Blood, as atonement for my and all of humanity’s rebellion against the Cross, every grumbling against Thy Holy Providence, and all other sins of  the tongue, as protection against such sins and for true love of the Cross.
+		
+		\n\n<h1><b>6.<u>The Crucifixion of Jesus</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, through Mary’s unblemished hands and the Divine Heart of Jesus, I offer to Thee Thy Son on the Cross, His nailing and lifting on high,  the Wounds on His Hands and Feet, and the three streams of His Precious Blood that poured forth for us from these, the extreme tortures of His Body and Soul, His precious death and its unbloody renewal in all Holy Masses on Earth, as atonement for all wounds against vows and regulations  within Religious Orders, as reparation for my and all the world’s sins, for the sick and dying, for all holy priests and laymen, for the intentions of the  Holy Father toward the restoration of Christian families, for the strengthening of Faith, for our country, for unity among all nations in Christ and His Church, and also for the Diaspora.
+		
+		\n\n<h1><b>7.<u>The Piercing of Jesus\’ Side</u></b></h1>
+    	\n\n
+    	<b>Our Father</b>
+    	\n
+		Who is in heaven, Holy is Your Name; Your kingdom come, Your will be done, on earth as it is in heaven.	Give us this day our daily bread, and forgive us our sins, as we forgive those who sin against us; and lead us not into temptation, but deliver us from evil.
+		\n
+		Amen.
+        \n\n
+        <b>Hail Mary</b>
+        \n
+		full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
+		\n
+		Amen. 
+		\n\n		
+		Eternal Father, accept as worthy for the needs of Holy Church, and as atonement for the sins of all Mankind, the precious Blood and Water which poured forth from the Wound of the Divine Heart of Jesus.  Be gracious and merciful towards us.  Blood  of Christ, the last precious content of His Holy Heart, wash me of all my and other’s guilt of sin!  Water from the Side of Christ, wash me clean of all punishments for sin and extinguish the flames of Purgatory for me and for all the Poor Souls.  Amen.		
+		\n\n
+		<b>Salve Regina.</b>
+		\n\n
+		Hail Holy Queen, Mother of Mercy, our life our sweetness and our hope. To thee do we cry, poor banished children of Eve; To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious advocate, thine eyes of mercy toward us and after this our exile show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary!
+		\n
+		- Pray for us, O Holy Mother of God\n
+		- That we may be made worthy of the promises of Christ.
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>

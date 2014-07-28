@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <!-- ScrollView etendu pour l'écoute de l'event scroll. -->
+
+    <com.maya.neuvaines.ScrollViewExt
+        android1:id="@+id/scrollViewPriere"
+        android1:layout_width="match_parent"
+        android1:layout_height="wrap_content"
+        android:background="@color/beige" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip" >
+
+                <Button
+                    android:id="@+id/buttonTopPrev"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/my_shape"
+                    android:padding="7dp"
+                    android:text="@string/prevday" >
+                </Button>
+
+                <TextView
+                    android1:id="@+id/textViewDayNumber"
+                    android1:layout_width="wrap_content"
+                    android1:layout_height="wrap_content"
+                    android1:layout_alignParentTop="true"
+                    android1:layout_centerHorizontal="true"
+                    android1:layout_centerVertical="true"
+                    android1:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <Button
+                    android:id="@+id/buttonTopNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/my_shape"
+                    android:padding="7dp"
+                    android:text="@string/nextday" >
+                </Button>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android1:layout_height="wrap_content"
+                android:padding="10dip" >
+
+                <TextView
+                    android1:id="@+id/textViewTitle"
+                    android1:layout_width="wrap_content"
+                    android1:layout_height="wrap_content"
+                    android1:layout_alignParentTop="true"
+                    android1:layout_centerHorizontal="true"
+                    android1:layout_centerVertical="true"
+                    android1:textAppearance="?android:attr/textAppearanceLarge" />
+            </RelativeLayout>
+
+            <TextView
+                android1:id="@+id/textViewPriere"
+                android1:layout_width="match_parent"
+                android1:layout_height="wrap_content"
+                android1:background="@color/beige"
+                android1:textColor="@color/black"
+                android1:textSize="@dimen/text_size" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip" >
+
+                <Button
+                    android:id="@+id/buttonBottomPrev"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/my_shape"
+                    android:padding="7dp"
+                    android:text="@string/prevday" >
+                </Button>
+
+                <Button
+                    android:id="@+id/buttonBottomNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/my_shape"
+                    android:padding="7dp"
+                    android:text="@string/nextday" >
+                </Button>
+            </RelativeLayout>
+        </LinearLayout>
+    </com.maya.neuvaines.ScrollViewExt>
+
+</RelativeLayout>

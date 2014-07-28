@@ -1,0 +1,194 @@
+<resources>
+    <!--
+    7 Notre Père HONGROIS
+     
+    Application gratuite et sans publicité.
+    J'ai fait de mon mieux pour la traduction.
+    S'il y a des erreurs envoyez moi un mail.
+    Que Dieu vous bénisse.
+    
+    http://www.unchiulmihai.ro/hu/page/imak/1355
+	
+	Salve Regina en bas de page :
+	http://uzenet.wordpress.com/szent-brigitta-15-imaja/
+	    
+     -->
+    <!--<string name="validateDay">Valider Journée</string>-->
+    <string name="app_name">Hét Mi Atyánk</string>
+    <string name="validateAndGoUp">Ervényesít</string>
+    <string name="_choice">választás</string>
+    <string name="_years">év</string>
+    <string name="_months">hónap(okban)</string>
+    <string name="_days">nap</string>
+    <string name="smallCandel">1 nap</string>
+    <string name="MediumCandel">1 hónap</string>
+    <string name="BigCandel">1 év</string>
+    <string name="startDate">Kezdet</string>
+            
+    <string name="DataExport">Az adatok exportálása</string>
+    <string name="MailOnly">Levél csak</string>
+    <string name="MailAndPDF">Levél + PDF</string>
+    <string name="MailAndTextFile">Levél + Szöveges Fájl</string>
+    <string name="DeviceMemoryAndPDF">PDF Fájl (készülék memóriája)</string>
+    <string name="DeviceMemoryAndTextFile">Szöveges Fájl (készülék memóriája)</string>
+    <string name="EXPORT">Export</string>
+    <string name="Return">Visszatérés</string>
+    <string name="FileLocation">Elhelyezés</string>
+    <!-- Error messages -->
+    <string name="NoSoftwareMail">Nincs Szoftver Levél.</string>
+    <string name="FileWriteFailed">Fájl írás nem sikerült.</string>
+    <string name="ExternalFolderUnavailable">Külső mappa nem érhető el.</string>
+    
+    <string name="promises">
+      <b>Ezt az ájtatosságot imádkozzuk 12 évig minden nap:</b>
+      \n
+      Az Isteni Üdvözítő kiegészítésként még a következő ígéreteket nyilatkoztatta ki Szent Brigittának: "Tudjátok meg, hogy azoknak, akik 12 évig naponta 7 MiAtyánkot és Üdvözlégy Máriát imádkoznak drága vérem tiszteletére, nagy kegyelmekkel halmozom el:
+      \n 
+	  1. Nem jutnak a tisztitótüzbe.\n
+	  2. Felveszem őket a vértanuk soraiba, mintha vérüket ontották volna hitükért.\n
+	  3. Óhajuk szerint rokonságukból 3 lélek szenteket formáló kegyelmet kap.\n
+	  4. Rokonságukból a lelkek negyed iziglen, a pokoltól megmenekülnek.\n
+	  5. Halálukról egy hónappal előbb tudomást szereznek.\n
+	  Ha meghalnának ezen idő alatt, úgy tekintem, mintha ezeket a feltételeket már teljesítették volna.\n
+	  X. Ince pápa megerősítette ezt a kinyilatkoztatást és hozzáfűzte: a lelkek, akik ezeket a feltételeket teljesítik, minden nagypénteken, egy lelket a tisztítótűzből kiszabadítanak.
+    </string>
+    
+    <string name="priere">
+        <h1><b><u>Prière.</u></b></h1>\n
+    	Ó JÉZUSOM, el akarom imádkozni 7-szer a Miatyánkot, egyesülve azzal a SZERETETTEL, amellyel TE ezt az imádságot szívedben megszentelted és megédesítetted. Fogadd ajkaimról Isteni SZÍVEDBE, javítsd ki és tökéletesítsd annyira, hogy az a legszentebb SZENTHÁROMSÁGNAK annyi tiszteletet és örömet nyújtson, amennyit TE a földön nekünk ezzel az imádsággal nyújtottál, és ez hirdesse legszentebb megtestesülésedet, a TE dicsőségedre.
+        \n
+        Ámen.
+    	\n\n
+    	
+    	<h1><b>1.<u>Körülmetélés</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által ajánlom fel Neked az első sebeket, az első fájdalmakat és JÉZUS első vérontását, engesztelésül a magam és minden fiatal bűneiért, a halálos bűnök elkerüléséért. Különösen őrizd reokonaimat(ismerőseimet és szeretteimet)
+
+		\n\n
+		<h1><b>2.<u>Vérizzadás</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által felajánlom JÉZUS Szíve szörnyű szenvedéseit, az OLAJFÁK hegyén és vérizzadásának minden cseppjét engesztelésül a magam és minden emberi szív gonoszságáért, a szívbeli bűnök elkerüléséért, az ISTEN- és felebaráti SZERETET növekedéséért.
+
+		\n\n
+		<h1><b>3.<u>Megostorozás</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által ajánlom fel sokezer szenvedésedet, a kegyetlen fájdalmakat, a korbácsütés által ejtett sok ezer sebet, a kegyetlen fájdalmakat, és JÉZUS drága vérét, a magam és minden ember testi büneinek engesztelésére, ilyen bűnök megelőzéséért, és a bűntelenség megőrzéséért. Különösen őrizd rokonaimat.
+
+		\n\n
+		<h1><b>4.<u>Tövissel való koronázás</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által felajánlom SZENT SEBEIDET, a fájdalmakat és JÉZUS töviskoszorus fejének drága vérét, a magam és minden emberi lélek ellen elkövetett bűnökért, az ilyen bűnök elkerüléséért, és KRISZTUS KIRÁLYSÁGÁNAK az egész földön való elterjedéséért.
+		
+		\n\n
+		<h1><b>5.<u>Kereszthordozás</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által felajánlom Neked JÉZUS fájdalmát a keresztúton, különösen az Ő SZENT VÁLLSEBEIT és azok drága Vérét, elégtételül a magam és az emberiség bűneiért, a Kereszt elutasításáért, a TE SZENT rendeléseid elleni zúgolódásokért és minden más nyelvvel elkövetett bűnért, az ilyen bűnök elkerüléséért és a Kereszt igazi SZERETETÉÉRT.
+
+		\n\n
+		<h1><b>6.<u>JÉZUS Keresztrefeszítéséért</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya, Mária Szeplőtelen keze és JÉZUS Isteni SZÍVE által felajánlom Neked Kereszten függő SZENT FIADAT, az Ő Keresztre szegezését és felemelését, AZ Ő KEZÉNEK ÉS LÁBÁNAK SEBEIT, SZENT VÉRÉNEK három irányból való csordúlását, amelyet értünk ontott, az Ő Belső szegénységét, az Ő TELJES ENGEDELMESSÉGÉT, minden testi és lelki gyötrelmét, az Ő DRÁGA halálát és annak minden szentmisében való megújúlását a földkerekségen, engesztelésül minden szerzetesi fogadalom és előírás megszegéséért, elégtételül a magam és a világ bűneiért, a betegekért és a haldoklókért, szent papokért és hívekért, a Szentaya szándékára, a keresztény családok helyreállításáért, a hitben való bátorságért, hazánkért és a népek KRISZTUSI egységéért, valamint a szórványban élőkért.
+
+		\n\n
+		<h1><b>7.<u>SZENT OLDALÁNAK Megnyítása</u></b></h1>
+    	\n\n
+        <b>Mi Atyánk,</b>
+        \n
+        aki a mennyekben vagy, Szenteltessék meg a Te neved, Jöjjön el a Te országod, Legyen meg a Te akaratod, Amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma, És bocsásd meg vétkeinket, Miképpen mi is megbocsátunk az ellenünk vétkezőknek, És ne vígy minket kísértésbe, De szabadíts meg a gonosztól.
+        \n
+        Ámen.
+        \n\n
+        <b>Üdvözlégy, Mária</b>
+        \n
+        kegyelemmel teljes! Az Úr van teveled. Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus. Asszonyunk, Szűz Mária, Istennek szent anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján.
+        \n
+        Ámen.
+		\n\n
+		Örök Atya! Áldalak és magasztallak Téged, hogy engedted, hogy az Egyház szükségleteiért és az egész világ bűneiért drága vér és víz follyon JÉZUS ISTENI Szívének Sebéből. Légy mindnyájunkhoz kegyes és irgalmas. Krisztus Vére, Utolsó Tartalma SZENTSÉGES SZÍVEDNEK, moss tisztára engem, minden saját és idegen bűnadósságtól. Krisztus Oldalából Kifolyó Víz, Moss tisztára engem minden bűntetéstől és oltsd ki a tisztítótűz lángjait és oltalmazd szegény lelkemet és felebarátaim lelkét.
+
+		\n\n
+		<b><u>Salut, ô Reine,</u></b>
+		\n
+		Mère de miséricorde, notre vie, notre consolation, notre espoir, salut! Enfants d\'Eve, de cette terre d\'exil nous crions vers vous; vers vous nous soupirons gémissant et pleurant dans cette vallée de larmes. O vous, notre Avocate, tournez vers nous vos regards compatissants. Et, après cet exil, obtenez-nous de contempler Jésus, le fruit béni de votre sein, ô clémente, ô miséricordieuse, ô douce Vierge Marie!
+		\n
+		- Priez pour nous, sainte Mère de Dieu.
+		\n
+		- Afin que nous devenions dignes des promesses de Notre Seigneur Jésus-Christ.
+		\n
+		Amen.
+		\n\n
+		</string>
+
+</resources>
